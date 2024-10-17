@@ -180,7 +180,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -235,7 +235,7 @@ const CONFIG = {
       rel="noreferrer"
     >A N M Mashud</a>`,
 
-  enablePWA: true,
+  enablePWA: false,
 };
 
 export default CONFIG;
