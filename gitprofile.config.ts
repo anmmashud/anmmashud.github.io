@@ -2,14 +2,14 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'anmmashud', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: 'https://github.com/anmmashud/anmmashud.github.io',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -52,36 +52,37 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of A N M Mashud',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'anmmashud',
+    twitter: 'anm_mashud',
+    mastodon: '',
     researchGate: '',
-    facebook: '',
-    instagram: '',
+    facebook: 'anm.mashud.9',
+    instagram: 'anmmashud',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'anmmashud', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: '',
+    phone: '01746823075',
+    email: 'anmmashud123@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
+
   skills: [
     'PHP',
     'Laravel',
@@ -98,6 +99,30 @@ const CONFIG = {
     'Antd',
     'Tailwind',
   ],
+  educations: [
+    {
+      institution: 'Institution Name',
+      degree: 'Degree',
+      from: '2015',
+      to: '2019',
+    },
+    {
+      institution: 'Institution Name',
+      degree: 'Degree',
+      from: '2012',
+      to: '2014',
+    },
+  ],
+
+  certifications: [
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+  ],
+
   experiences: [
     {
       company: 'Company Name',
@@ -114,34 +139,14 @@ const CONFIG = {
       companyLink: 'https://example.com',
     },
   ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
-  educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
+
+
   publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
       journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      authors: 'A. N. M. Mashud',
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
@@ -150,7 +155,7 @@ const CONFIG = {
       title: 'Publication Title',
       conferenceName: 'Conference Name',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
+      authors: 'A. N. M. Mashud',
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
@@ -235,10 +240,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/anmmashud"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >© 2024 Mashud. All rights reserved.</a>`,
 
   enablePWA: true,
 };
