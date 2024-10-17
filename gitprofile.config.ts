@@ -33,21 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'LMI-Tool',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A customizable automation tool for flashing and recovery processes for Xiaomi devices.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/anmmashud/LMI-Tool',
         },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+        
       ],
     },
   },
@@ -91,80 +84,70 @@ const CONFIG = {
     'Git',
     'GitHub',
     'HTML',
+    'Web Pentesting',
   ],
 
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2025',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2015',
-      to: 'August 2025',
-      companyLink: 'https://example.com',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
 
 
   certifications: [
     {
-      name: 'HSC - Higher Secondary Certificate in Science',
-      body: 'From Lakshmipur Govt. College, Lakshmipur',
+      name: 'HSC: Dept. of Science, GPA-4.83',
+      body: 'From Lakshmipur Govt. College, Lakshmipur.',
       year: '2023',
-      gpa: '4.00',
+      gpa: '4.83',
       department: 'Science',
       link: '', 
     },
     {
-      name: 'Web Development Certification',
-      body: 'Completed a course on modern web development principles.',
-      year: '2024',
-      gpa: '3.80',
-      department: 'Computer Science',
+      name: 'SSC: Dept. of Science, GPA-5.00',
+      body: 'From Lakshmipur Adarsha Samad Govt. High School, Lakshmipur.',
+      year: '2021',
+      gpa: '5.00',
+      department: 'Science',
       link: '',
     },
     {
-      name: 'Data Science Bootcamp',
-      body: 'Intensive training on data analysis and machine learning.',
+      name: 'PSC: GPA-5.00',
+      body: 'From Kakoli Shishu Angan, Lakshmipur.',
       year: '2024',
-      gpa: '3.90',
-      department: 'Data Science',
+      gpa: '5.00',
+      department: '',
       link: '',
     },
   ],
-  
-  
-
-
 
   educations: [
     {
       institution: 'Chittagong College, Chittagong',
-      degree: 'Bachelor of Science [BSc] in Statistics',
+      degree: '[BSc] - Bachelor of Science in Statistics',
       from: '2024',
-      to: '',
+      to: 'Present',
     },
     {
       institution: 'Lakshmipur Govt. College, Lakshmipur',
-      degree: 'Higher Secondary Certificate [HSC] in Science',
+      degree: '[HSC] - Higher Secondary Certificate in Science',
       from: '2021',
       to: '2022',
     },
     {
-      institution: '',
-      degree: 'Secondary School Certificate [SSC] in Science',
+      institution: 'Lakshmipur Adarsha Samad Govt. High School, Lakshmipur',
+      degree: '[SSC] - Secondary School Certificate in Science',
       from: '2019',
       to: '2020',
     },
     {
       institution: 'Kakoli Shishu Angan, Lakshmipur',
-      degree: 'Primary School Certificate [PSC]',
-      from: '',
+      degree: '[PSC] - Primary School Certificate',
+      from: '2015',
       to: '2015',
     },            
   ],
@@ -172,28 +155,20 @@ const CONFIG = {
 
   publications: [
     {
-      title: 'Publication Title',
+      title: '',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'A. N. M. Mashud',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
       journalName: '',
-      authors: 'A. N. M. Mashud',
-      link: 'https://example.com',
+      authors: '',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '', 
     },
+
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -254,7 +229,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `All rights resered © 2024 <a 
+  footer: `All rights resered © 2024 - <a 
       class="text-primary" href="https://github.com/anmmashud"
       target="_blank"
       rel="noreferrer"
