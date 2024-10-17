@@ -229,7 +229,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `All rights resered © 2024 - <a 
+  footer: `© 2024 - All rights resered to <a 
       class="text-primary" href="https://github.com/anmmashud"
       target="_blank"
       rel="noreferrer"
