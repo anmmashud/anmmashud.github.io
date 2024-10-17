@@ -65,7 +65,7 @@ const CONFIG = {
     instagram: 'anmmashud',
     reddit: '',
     threads: '',
-    youtube: 'anmmashud', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -73,32 +73,75 @@ const CONFIG = {
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
-    telegram: '',
+    telegram: 'anmmashud',
     website: '',
     phone: '01746823075',
     email: 'anmmashud123@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://example.com/my-resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
 
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
+    'R',
+    'Bash',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'GitHub',
+    'HTML',
   ],
+
+  experiences: [
+    {
+      company: 'Company Name',
+      position: 'Position',
+      from: 'September 2025',
+      to: 'Present',
+      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Company Name',
+      position: 'Position',
+      from: 'July 2015',
+      to: 'August 2025',
+      companyLink: 'https://example.com',
+    },
+  ],
+
+
+  certifications: [
+    {
+      name: 'HSC - Higher Secondary Certificate in Science',
+      body: 'From Lakshmipur Govt. College, Lakshmipur',
+      year: '2023',
+      gpa: '4.00',
+      department: 'Science',
+      link: '', 
+    },
+    {
+      name: 'Web Development Certification',
+      body: 'Completed a course on modern web development principles.',
+      year: '2024',
+      gpa: '3.80',
+      department: 'Computer Science',
+      link: '',
+    },
+    {
+      name: 'Data Science Bootcamp',
+      body: 'Intensive training on data analysis and machine learning.',
+      year: '2024',
+      gpa: '3.90',
+      department: 'Data Science',
+      link: '',
+    },
+  ],
+  
+  
+
+
+
   educations: [
     {
       institution: 'Institution Name',
@@ -111,32 +154,6 @@ const CONFIG = {
       degree: 'Degree',
       from: '2012',
       to: '2014',
-    },
-  ],
-
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
-
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
     },
   ],
 
@@ -193,36 +210,22 @@ const CONFIG = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
+      'night',
       'synthwave',
-      'retro',
-      'cyberpunk',
+      'cupcake',
       'valentine',
+      'pastel',
+      'forest',
       'halloween',
       'garden',
-      'forest',
-      'aqua',
       'lofi',
-      'pastel',
       'fantasy',
-      'wireframe',
       'black',
       'luxury',
       'dracula',
-      'cmyk',
-      'autumn',
       'business',
       'acid',
       'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
       'procyon',
     ],
 
@@ -239,11 +242,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  footer: `© 2024 <a 
       class="text-primary" href="https://github.com/anmmashud"
       target="_blank"
       rel="noreferrer"
-    >© 2024 Mashud. All rights reserved.</a>`,
+    >A N M Mashud</a>`,
 
   enablePWA: true,
 };
