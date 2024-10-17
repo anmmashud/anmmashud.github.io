@@ -144,17 +144,29 @@ const CONFIG = {
 
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Chittagong College, Chittagong',
+      degree: 'Bachelor of Science [BSc] in Statistics',
+      from: '2024',
+      to: '',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Lakshmipur Govt. College, Lakshmipur',
+      degree: 'Higher Secondary Certificate [HSC] in Science',
+      from: '2021',
+      to: '2022',
     },
+    {
+      institution: '',
+      degree: 'Secondary School Certificate [SSC] in Science',
+      from: '2019',
+      to: '2020',
+    },
+    {
+      institution: 'Kakoli Shishu Angan, Lakshmipur',
+      degree: 'Primary School Certificate [PSC]',
+      from: '',
+      to: '2015',
+    },            
   ],
 
 
@@ -201,7 +213,7 @@ const CONFIG = {
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: false,
+    respectPrefersColorScheme: true,
 
     // Display the ring in Profile picture
     displayAvatarRing: true,
@@ -211,11 +223,11 @@ const CONFIG = {
       'light',
       'dark',
       'night',
+      'forest',
       'synthwave',
       'cupcake',
       'valentine',
       'pastel',
-      'forest',
       'halloween',
       'garden',
       'lofi',
@@ -242,7 +254,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `© 2024 <a 
+  footer: `All rights resered © 2024 <a 
       class="text-primary" href="https://github.com/anmmashud"
       target="_blank"
       rel="noreferrer"
