@@ -1,15 +1,17 @@
 github_users:
   - anmmashud
-  - anmmashud
-  - anmmashud
+  
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - anmmashud/Resources
+  - anmmashud/Vrinda_Store_Data_Analysis_Excel
+  - anmmashud/Retail_Sales_Analysis_SQL_Project_1
+  - anmmashud/BNU_Exam_System_Statistics_Department
+  - anmmashud/SPSS_Coding_With_Problems
+  - anmmashud/Dark-Night-Theme
+  - anmmashud/Excel_Mastery_Syllabus
+  - anmmashud/ChatGPT-tuning
+  - anmmashud/Janitor-ai
+  - anmmashud/Mashud-CV
