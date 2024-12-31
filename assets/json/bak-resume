@@ -14,54 +14,16 @@
       "countryCode": "BD",
       "region": "Chittagong, Bangladesh"
     },
+
+// ----------- upper code is fine ------------
+
     "profiles": [
       {
-        "network": "Facebook",
-        "username": "anmmashud01",
-        "url": "https://facebook.com/anmmashud01"
-      },
-      {
         "network": "Twitter",
-        "username": "anm_mashud",
-        "url": "https://twitter.com/anm_mashud"
-      },
-      {
-        "network": "Instagram",
-        "username": "anmmashud",
-        "url": "https://instagram.com/anmmashud"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "anmmashud",
-        "url": "https://linkedin.com/in/anmmashud"
-      },
-      {
-        "network": "YouTube",
-        "username": "anmmashud",
-        "url": "https://youtube.com/c/anmmashud"
-      },
-      {
-        "network": "Pinterest",
-        "username": "anmmashud",
-        "url": "https://pinterest.com/anmmashud"
-      },
-      {
-        "network": "GitHub",
-        "username": "anmmashud",
-        "url": "https://github.com/anmmashud"
-      },
-      {
-        "network": "Reddit",
-        "username": "anmmashud",
-        "url": "https://reddit.com/user/anmmashud"
-      }
-      {
-        "network": "Patreon",
-        "username": "anmmashud",
-        "url": "https://patreon.com/anmmashud"
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
-
   },
   "work": [
     {
@@ -88,40 +50,38 @@
   ],
   "education": [
     {
-      "institution": "Chittagong College",
+      "institution": "Chittagong College, Chittagong affiliated with Bangladesh National University)",
       "location": "Chittagong, Bangladesh",
       "url": "https://ctgcollege.gov.bd",
-      "area": "Statistics",
-      "studyType": "Bachelor of Science [BSc]",
-      "startDate": "2023-01-01",
-      "endDate": "2024-01-01",
-      "score": "",
+      "area": "Department of Statistics",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2024-07-01",
+      "endDate": "Ongoing",
       "courses": []
     },
     {
-      "institution": "Lakshmipur Govt. College",
+      "institution": "Lakshmipur Govt. College, Lakshmipur",
       "location": "Lakshmipur, Bangladesh",
       "url": "http://laxmipurgovtcollege.edu.bd",
-      "area": "Science",
+      "area": "Group of Science",
       "studyType": "Higher Secondary Certificate [HSC]",
       "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "endDate": "2023-02-01",
       "score": "GPA: 4.83/5.0",
       "courses": []
     },
     {
-      "institution": "Lakshmipur Adarsha Samad Govt. High School",
+      "institution": "Lakshmipur Adarsha Samad Govt. High School, Lakshmipur",
       "location": "Lakshmipur, Bangladesh",
       "url": "https://www.facebook.com/Lakshmipur.Adarsha.Samad/",
-      "area": "Science",
+      "area": "Group of Science",
       "studyType": "Secondary School Certificate [SSC]",
       "startDate": "2019-01-01",
-      "endDate": "2020-01-01",
+      "endDate": "2020-12-01",
       "score": "GPA: 5.0/5.0",
       "courses": []
     }
   ],
-
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -200,34 +160,6 @@
   ],
   "skills": [
     {
-      "name": "Data Analysis",
-      "level": "Intermediate",
-      "icon": "fa-solid fa-chart-bar",
-      "keywords": [
-        "Excel",
-        "SQL",
-        "Python",
-        "Tableau",
-        "SPSS",
-        "R",
-        "Power BI",
-        "Statistics",
-      ]
-    },
-  "languages": [
-    {
-      "language": "Bangla",
-      "fluency": "Expert",
-      "icon": "fa-solid fa-language"
-    },
-    {
-      "language": "English",
-      "fluency": "Basic",
-      "icon": "fa-solid fa-language"
-    }
-  ],
-  "interests": [
-    {
       "name": "Data Science",
       "icon": "fa-solid fa-database",
       "keywords": [
@@ -240,18 +172,6 @@
       ]
     },
     {
-      "name": "Quantum Physics",
-      "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    },
-    {
       "name": "Programming",
       "icon": "fa-solid fa-code",
       "keywords": [
@@ -261,6 +181,32 @@
         "JavaScript",
         "SPSS",
         "Power BI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
