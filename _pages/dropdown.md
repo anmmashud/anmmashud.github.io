@@ -6,17 +6,21 @@ nav_order: 8
 dropdown: true
 children:
 
+  - title: CV
+    permalink: /cv/
+  - title: divider
+
   - title: News
     permalink: /news/
   - title: divider
   
   - title: Forms
-    permalink: /form/
+    permalink: /forms/
   - title: divider
 
-  - title: Education
-    permalink: /teaching/
-  - title: divider
+  # - title: Education
+  #   permalink: /education/
+  # - title: divider
 
   - title: Publication
     permalink: /publications/
@@ -27,7 +31,7 @@ children:
   - title: divider
 
   - title: People
-    permalink: /profiles/
+    permalink: /people/
   - title: divider
 
   - title: Contacts

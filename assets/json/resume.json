@@ -1,19 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "A. N. M. Mashud",
+    "label": "Data Analyst",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "anmmashud123@gmail.com",
+    "phone": "+8801746823075",
+    // "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "Passionate About Unraveling Insights in a Data-Driven World ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Laharkandi, Lakshmipur Sadar",
+      "postalCode": "3700",
+      "city": "Lakshmipur",
+      "countryCode": "BD",
+      "region": "Chittagong, Bangladesh"
     },
+
+// ----------- upper code is fine ------------
+
     "profiles": [
       {
         "network": "Twitter",
