@@ -23,14 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-education",
+          title: "Education",
+          description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/education/";
           },
-        },{id: "dropdown-news",
+        },{id: "dropdown-cv",
+              title: "CV",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-news",
               title: "News",
               description: "",
               section: "Dropdown",
@@ -39,13 +46,6 @@ ninja.data = [{
               },
             },{id: "dropdown-forms",
               title: "Forms",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-education",
-              title: "Education",
               description: "",
               section: "Dropdown",
               handler: () => {
