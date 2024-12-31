@@ -1,16 +1,35 @@
 ---
 layout: page
-title: submenus
+title: More
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+
+  - title: News
+    permalink: /news/
+  - title: divider
+  
+  - title: Forms
+    permalink: /form/
+  - title: divider
+
+  - title: Education
+    permalink: /teaching/
+  - title: divider
+
+  - title: Publication
     permalink: /publications/
   - title: divider
-  - title: projects
-    permalink: /projects/
+
+  - title: Repositories
+    permalink: /repositories/
   - title: divider
-  - title: blog
-    permalink: /blog/
+
+  - title: People
+    permalink: /profiles/
+  - title: divider
+
+  - title: Contacts
+    permalink: /contacts/
 ---
