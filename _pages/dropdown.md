@@ -6,8 +6,8 @@ nav_order: 8
 dropdown: true
 children:
 
-  - title: CV
-    permalink: /cv/
+  - title: Resume
+    permalink: /resume/
   - title: divider
 
   - title: News

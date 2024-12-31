@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 nav: false
 nav_order: 4
 cv_pdf: cv-mashud.pdf # you can also use external links here
