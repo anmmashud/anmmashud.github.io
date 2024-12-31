@@ -160,40 +160,57 @@
   ],
   "skills": [
     {
-      "name": "Data Science",
-      "icon": "fa-solid fa-database",
-      "keywords": [
-        "Data Analysis",
-        "Machine Learning",
-        "Statistics",
-        "Big Data",
-        "Data Visualization",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Programming",
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
         "SQL",
         "R",
-        "JavaScript",
+        "Html",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Tools",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Excel",
+        "Tableau",
+        "Power BI",       
+        "VS Code",
         "SPSS",
-        "Power BI"
+        "Git",
+        "GitHub",
+        "Jupyter Notebook"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-atom",
+      "keywords": [
+        "Data Analysis",
+        "Machine Learning",
+        "Statistics",
+        "Artificial Intelligence"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Bangla",
+      "fluency": "Expert",
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Intermediate",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Basic",
+      "icon": "fa-solid fa-language"
     }
   ],
   "interests": [
