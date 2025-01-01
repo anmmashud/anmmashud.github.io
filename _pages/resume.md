@@ -2,10 +2,10 @@
 layout: cv
 title: Resume
 permalink: /resume/
-nav: false
-nav_order: 4
+nav: true
+nav_order: 3
 cv_pdf: cv-mashud.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.
 toc:
   sidebar: left
 ---

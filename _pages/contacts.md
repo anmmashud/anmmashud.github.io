@@ -2,9 +2,23 @@
 layout: page
 permalink: /contacts/
 title: Contacts
-description: Materials for courses you taught. Replace this text with your description.
-# nav: false
-# nav_order: 0
+description: Get in touch for collaborations, inquiries, or a chat about data science.
+nav: true
+nav_order: 4
+---
+**Let’s Connect!**
+
+Feel free to reach out through any of the contact options below. Whether it’s discussing projects, asking questions, or simply networking, I'm always happy to connect with fellow data science enthusiasts and professionals.
+
 ---
 
-More contents are coming soon...
+**A N M Mashud**
+
+**Email:** [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com)  
+**Phone:** [+8801746823075](tel:+8801746823075)  
+**LinkedIn:** [anmmashud](https://www.linkedin.com/in/anmmashud)  
+**GitHub:** [anmmashud](https://github.com/anmmashud)  
+**Kaggle:** [anmmashud](https://www.kaggle.com/anmmashud)  
+**Facebook:** [anmmashud01](https://www.facebook.com/anmmashud01)  
+**Instagram:** [anmmashud](https://www.instagram.com/anmmashud)  
+**Twitter:** [@anm_mashud](https://twitter.com/anm_mashud)  

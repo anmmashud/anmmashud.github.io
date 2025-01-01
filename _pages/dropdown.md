@@ -6,9 +6,9 @@ nav_order: 8
 dropdown: true
 children:
 
-  - title: Resume
-    permalink: /resume/
-  - title: divider
+  # - title: Resume
+  #   permalink: /resume/
+  # - title: divider
 
   - title: News
     permalink: /news/
@@ -18,9 +18,9 @@ children:
     permalink: /forms/
   - title: divider
 
-  # - title: Education
-  #   permalink: /education/
-  # - title: divider
+  - title: Education
+    permalink: /education/
+  - title: divider
 
   - title: Publication
     permalink: /publications/
@@ -32,8 +32,8 @@ children:
 
   - title: People
     permalink: /people/
-  - title: divider
+  # - title: divider
 
-  - title: Contacts
-    permalink: /contacts/
+  # - title: Contacts
+  #   permalink: /contacts/
 ---
