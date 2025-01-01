@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/github/";
           },
-        },{id: "nav-contacts",
-          title: "Contacts",
-          description: "Get in touch for collaborations, inquiries, or a chat about data science.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/contacts/";
-          },
         },{id: "nav-resume",
           title: "Resume",
           description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
+          },
+        },{id: "nav-contacts",
+          title: "Contacts",
+          description: "Get in touch for collaborations, inquiries, or a chat about data science.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contacts/";
           },
         },{id: "dropdown-news",
               title: "News",
