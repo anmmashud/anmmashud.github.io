@@ -23,21 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-education",
-          title: "Education",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-resume",
+          title: "Resume",
+          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/education/";
+            window.location.href = "/resume/";
           },
-        },{id: "dropdown-resume",
-              title: "Resume",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-news",
+        },{id: "nav-contacts",
+          title: "Contacts",
+          description: "Get in touch for collaborations, inquiries, or a chat about data science.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contacts/";
+          },
+        },{id: "dropdown-news",
               title: "News",
               description: "",
               section: "Dropdown",
@@ -46,6 +46,13 @@ ninja.data = [{
               },
             },{id: "dropdown-forms",
               title: "Forms",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-education",
+              title: "Education",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -67,13 +74,6 @@ ninja.data = [{
               },
             },{id: "dropdown-people",
               title: "People",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-contacts",
-              title: "Contacts",
               description: "",
               section: "Dropdown",
               handler: () => {
