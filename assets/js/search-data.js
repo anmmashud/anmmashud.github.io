@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-resume",
-          title: "Resume",
-          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
+        },{id: "nav-github",
+          title: "GitHub",
+          description: "Explore my GitHub repositories, where I share projects related to data science, machine learning, and software development. Check out the code, contribute, or simply explore for insights and inspiration. You can find all my repositories listed below.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resume/";
+            window.location.href = "/github/";
           },
         },{id: "nav-contacts",
           title: "Contacts",
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/contacts/";
+          },
+        },{id: "nav-resume",
+          title: "Resume",
+          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resume/";
           },
         },{id: "dropdown-news",
               title: "News",
@@ -51,6 +58,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-people",
+              title: "People",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "dropdown-education",
               title: "Education",
               description: "",
@@ -60,20 +74,6 @@ ninja.data = [{
               },
             },{id: "dropdown-publication",
               title: "Publication",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-repositories",
-              title: "Repositories",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-people",
-              title: "People",
               description: "",
               section: "Dropdown",
               handler: () => {
