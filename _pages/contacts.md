@@ -4,7 +4,7 @@ permalink: /contacts/
 title: Contacts
 description: Get in touch for collaborations, inquiries, or a chat about data science.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 **Let’s Connect!**
 
