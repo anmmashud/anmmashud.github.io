@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: /repositories/
-title: Repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-# nav: false
-# nav_order: 0
----
+permalink: /github/
+title: GitHub
+description: Explore my GitHub repositories, where I share projects related to data science, machine learning, and software development. Check out the code, contribute, or simply explore for insights and inspiration. You can find all my repositories listed below.
+nav: true
+nav_order: 3
 
+# Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+---
 {% if site.data.repositories.github_users %}
 
 ## GitHub users

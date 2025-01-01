@@ -22,3 +22,4 @@ Feel free to reach out through any of the contact options below. Whether it’s 
 **Facebook:** [anmmashud01](https://www.facebook.com/anmmashud01)  
 **Instagram:** [anmmashud](https://www.instagram.com/anmmashud)  
 **Twitter:** [@anm_mashud](https://twitter.com/anm_mashud)  
+**ORCID:** [0009-0000-8730-1655](https://orcid.org/0009-0000-8730-1655)

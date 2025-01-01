@@ -17,6 +17,10 @@ children:
   - title: Forms
     permalink: /forms/
   - title: divider
+  
+  - title: People
+    permalink: /people/
+  # - title: divider
 
   - title: Education
     permalink: /education/
@@ -26,12 +30,8 @@ children:
     permalink: /publications/
   - title: divider
 
-  - title: Repositories
-    permalink: /repositories/
-  - title: divider
-
-  - title: People
-    permalink: /people/
+  # - title: Repositories
+  #   permalink: /repositories/
   # - title: divider
 
   # - title: Contacts
