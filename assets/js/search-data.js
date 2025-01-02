@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-install-python-on-windows",
+      
+        title: "Install Python on Windows",
+      
+      description: "Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/python-installation-on-windows/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -400,7 +411,7 @@ ninja.data = [{
       },
     },{id: "post-a-post-with-code",
       
-        title: "a post with code",
+        title: "A Post with code",
       
       description: "an example of a blog post with some code",
       section: "Posts",
