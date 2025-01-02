@@ -67,10 +67,10 @@ Here are my screenshots. Don’t worry about the terminal color; you can customi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/python_install_win_ss1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/python_install_win_ss1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/python_install_win_ss2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/python_install_win_ss2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
