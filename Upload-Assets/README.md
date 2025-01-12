@@ -1,1 +1,0 @@
-this folder is for uploading assets from different places. we will use them for improving our site. 
