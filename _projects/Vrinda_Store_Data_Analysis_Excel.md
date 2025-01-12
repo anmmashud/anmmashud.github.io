@@ -27,12 +27,7 @@ The goal is to generate an annual 📊 report that highlights performance metric
 8. 🌐 Next Steps
 
 ### 📚 Collecting Data:
-The dataset was provided in the file **"[Vrinda_Store_original.xlsx](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx)"**.
-
-<a href="https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx" download>
-   Download Vrinda_Store_original.xlsx
-</a>
-
+The dataset was provided in the file **[Vrinda_Store_original.xlsx](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx)**.
 
 ### ❓ Sample Questions:
 Here are some questions to guide the analysis:
