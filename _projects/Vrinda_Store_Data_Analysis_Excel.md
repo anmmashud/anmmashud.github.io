@@ -2,7 +2,7 @@
 layout: page
 title: Vrinda Store - Data Analysis in Excel
 
-description: This project involves analyzing sales data for **Vrinda Store** from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
+description: This project involves analyzing sales data for Vrinda Store from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
 img: assets/img/Project-Vrinda-store/vrinda-store-thumbnail-frelancher.png
 importance: 1
 category: Excel
@@ -27,7 +27,7 @@ The goal is to generate an annual 📊 report that highlights performance metric
 8. 🌐 Next Steps
 
 ### 📚 Collecting Data:
-The dataset was provided in the file **[Vrinda_Store_original.xlsx](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx)**.
+The dataset was provided in the file **[Vrinda_Store_original.xlsx](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx)**
 
 ### ❓ Sample Questions:
 Here are some questions to guide the analysis:
