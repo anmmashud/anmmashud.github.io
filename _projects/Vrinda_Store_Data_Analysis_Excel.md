@@ -1,23 +1,17 @@
 ---
 layout: page
-title: Vrinda_Store_Data_Analysis_Excel
+title: Vrinda Store - Data Analysis in Excel
 
-description: To conduct a comprehensive analysis of `Blinkit's` `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and `opportunities for optimization` using various `KPIs` and `visualizations` in `Excel`.
+description: This project involves analyzing sales data for **Vrinda Store** from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
 img: assets/img/Project-Vrinda-store/vrinda-store-thumbnail-frelancher.png
 importance: 1
 category: Excel
 related_publications: true
 ---
-# 🌐 Vrinda Store Data Analysis: Excel Project
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/dashboard.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/insights.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/new_data.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-## 🔄 Introduction:
-This project involves analyzing sales data for **Vrinda Store** from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/vrinda-store-thumbnail-frelancher.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 
 ## 🎯 Objective:
 The goal is to generate an annual 📊 report that highlights performance metrics for 2022, providing insights into customer trends 🔎 and helping develop strategies to improve sales in 2023.
@@ -33,7 +27,12 @@ The goal is to generate an annual 📊 report that highlights performance metric
 8. 🌐 Next Steps
 
 ### 📚 Collecting Data:
-The dataset was provided in the file **"Vrinda_Store_original.xlsx"**.
+The dataset was provided in the file **"[Vrinda_Store_original.xlsx](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx)"**.
+
+<a href="https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx" download>
+   Download Vrinda_Store_original.xlsx
+</a>
+
 
 ### ❓ Sample Questions:
 Here are some questions to guide the analysis:
@@ -56,12 +55,9 @@ Here are some questions to guide the analysis:
 3. **🏛️ Standardizing gender entries:**
    The gender column had inconsistent entries (Men, M, W, Women). These were standardized into two categories: **Men** and **Women**.
 
-
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/Project-Vrinda-store/old_data.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/Project-Vrinda-store/new_data.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
-</img-comparison-slider>
-
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/new_data.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 
 ### ⚙️ Data Processing:
 To address trends over time, a new column was added to extract the 🔢 month from the Date column.
@@ -87,16 +83,9 @@ The dashboard includes:
   - 🌐 Channel  
   - 🔢 Age Group
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/dashboard.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/dashboard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
-
 
 ### 🔦 Insights:
 Key findings from the analysis include:
@@ -110,11 +99,6 @@ To boost sales in 2023:
 - Focus on ♀️ **women** aged **20-40** in 🌎 **Maharashtra**, **Karnataka**, and **Uttar Pradesh**.
 - Use 📲 targeted ads, 🎉 promotions, and 🎁 coupons on channels like **Amazon**, **Flipkart**, and **Myntra**.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/insights.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/insights.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
