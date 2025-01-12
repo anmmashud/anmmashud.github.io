@@ -5,7 +5,7 @@ title: Vrinda_Store_Data_Analysis_Excel
 description: To conduct a comprehensive analysis of `Blinkit's` `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and `opportunities for optimization` using various `KPIs` and `visualizations` in `Excel`.
 img: assets/img/Project-Vrinda-store/vrinda-store-thumbnail-frelancher.png
 importance: 1
-category: Excel Dashboard
+category: Excel
 related_publications: true
 ---
 # 🌐 Vrinda Store Data Analysis: Excel Project
