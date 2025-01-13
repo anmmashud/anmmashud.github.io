@@ -253,13 +253,13 @@
       "endDate": "2024-11-03",
       "url": "https://anmmashud.github.io/projects/Vrinda_Store_Data_Analysis_Excel"
     }
-    {
-      "name": "BlinkIT - Grocery Analysis in Excel",
-      "summary": "To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.",
-      "highlights": ["Excel", "Dashboard"],
-      "startDate": "2025-01-12",
-      "endDate": "2025-01-15",
-      "url": "https://anmmashud.github.io/projects/Blinkit_Grocery_Analysis_Excel/"
-    }
+    // {
+    //   "name": "BlinkIT - Grocery Analysis in Excel",
+    //   "summary": "To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.",
+    //   "highlights": ["Excel", "Dashboard"],
+    //   "startDate": "2025-01-12",
+    //   "endDate": "2025-01-15",
+    //   "url": "https://anmmashud.github.io/projects/Blinkit_Grocery_Analysis_Excel/"
+    // }
   ]
 }
