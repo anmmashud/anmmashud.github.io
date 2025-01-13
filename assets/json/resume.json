@@ -4,13 +4,13 @@
     "label": "Data Analyst",
     "image": "",
     "email": "anmmashud123@gmail.com",
-    "phone": "+8801746823075",
+    "phone": "+8801872809600",
     // "url": "https://alshedivat.github.io/al-folio/",
     "summary": "Passionate About Unraveling Insights in a Data-Driven World ",
     "location": {
-      "address": "Laharkandi, Lakshmipur Sadar",
-      "postalCode": "3700",
-      "city": "Lakshmipur",
+      "address": "Chawk Bazar, Chittagong",
+      "postalCode": "4203",
+      "city": "Chittagong",
       "countryCode": "BD",
       "region": "Chittagong, Bangladesh"
     },
@@ -54,7 +54,7 @@
   "education": [
     {
       "institution": "Chittagong College, Chittagong affiliated with Bangladesh National University)",
-      "location": "Chittagong, Bangladesh",
+      "location": "Chittagong",
       "url": "https://ctgcollege.gov.bd",
       "area": "Department of Statistics",
       "studyType": "Bachelor of Science (BSc)",
@@ -64,7 +64,7 @@
     },
     {
       "institution": "Lakshmipur Govt. College, Lakshmipur",
-      "location": "Lakshmipur, Bangladesh",
+      "location": "Lakshmipur",
       "url": "http://laxmipurgovtcollege.edu.bd",
       "area": "Group of Science",
       "studyType": "Higher Secondary Certificate [HSC]",
@@ -75,7 +75,7 @@
     },
     {
       "institution": "Lakshmipur Adarsha Samad Govt. High School, Lakshmipur",
-      "location": "Lakshmipur, Bangladesh",
+      "location": "Lakshmipur",
       "url": "https://www.facebook.com/Lakshmipur.Adarsha.Samad/",
       "area": "Group of Science",
       "studyType": "Secondary School Certificate [SSC]",
