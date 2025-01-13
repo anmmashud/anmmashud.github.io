@@ -247,11 +247,11 @@
   "projects": [
     {
       "name": "Vrinda Store Data Analysis",
-      "summary": "#",
+      "summary": "This project involves analyzing sales data for Vrinda Store from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨",
       "highlights": ["Excel", "Dashboard"],
       "startDate": "2024-11-01",
       "endDate": "2024-11-03",
-      "url": "/"
+      "url": "https://anmmashud.github.io/projects/Vrinda_Store_Data_Analysis_Excel"
     }
   ]
 }
