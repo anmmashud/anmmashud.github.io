@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: A.N.M.Mashud # the website title (if blank, full name will be used instead)
+title: Mashud # the website title (if blank, full name will be used instead)
 first_name: A.N.M.
 middle_name:
 last_name: Mashud
@@ -14,13 +14,13 @@ footer_text: >
 # Powered by <a href="#" target="_blank">Jekyll</a> with <a href="#</a> theme.
 # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: data, excel, sql, power-bi, tableau, python, data-analysis, data-analyst, data-science, statistcian, spss, r # add your own keywords or leave empty
+keywords: Excel, Python, SQL, Dashboard, SPSS, GitHub, Statistics, Data Science, Machine Learning, Artificial Intelligence, data, excel, sql, power-bi, tableau, python, data-analysis, data-analyst, data-science, r # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmmashud.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -87,9 +87,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Welcome! # blog_name will be displayed in your blog page
-blog_description: to our simple blog site
-permalink: /blog/:year/:title/
+blog_name: Hello! # blog_name will be displayed in your blog page
+blog_description: Welcome to our simple blog site
+permalink: /blog/:2025/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -267,7 +267,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["Excel", "Python", "SQL", "Dashboard", "SPSS", "GitHub","Statistics", "Data Science", "Machine Learning", "Artificial Intelligence",] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
