@@ -3,14 +3,14 @@ layout: page
 title: Vrinda Store - Data Analysis in Excel
 
 description: This project involves analyzing sales data for Vrinda Store from 2022. The main goal is to create a yearly 📈 sales report to better understand customer behavior and identify areas of growth for 2023. ✨
-img: assets/img/Project-Vrinda-store/vrinda-store-thumbnail-frelancher.png
+img: assets/img/project-vrinda-store/vrinda-store-thumbnail-frelancher.png
 importance: 1
 category: Excel
 related_publications: true
 ---
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/vrinda-store-thumbnail-frelancher.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/project-vrinda-store/vrinda-store-thumbnail-frelancher.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 ## 🎯 Objective:
@@ -51,7 +51,7 @@ Here are some questions to guide the analysis:
    The gender column had inconsistent entries (Men, M, W, Women). These were standardized into two categories: **Men** and **Women**.
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/new_data.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/project-vrinda-store/new_data.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 ### ⚙️ Data Processing:
@@ -79,7 +79,7 @@ The dashboard includes:
   - 🔢 Age Group
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/dashboard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/project-vrinda-store/dashboard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 ### 🔦 Insights:
@@ -96,7 +96,7 @@ To boost sales in 2023:
 
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Project-Vrinda-store/insights.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/project-vrinda-store/insights.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 ## 📥 Downloads:

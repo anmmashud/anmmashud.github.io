@@ -3,7 +3,7 @@ layout: page
 title: BlinkIT - Grocery Analysis in Excel
 
 description: To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
-img: assets/img/12.jpg
+img: assets\img\project-blinkit-store\blinkit_thumbnail.jpg
 importance: 1
 category: Excel
 related_publications: true
