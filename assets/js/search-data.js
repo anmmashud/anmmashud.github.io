@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-github",
-          title: "GitHub",
-          description: "Explore my GitHub repositories, where I share projects related to data science, machine learning, and software development. Check out the code, contribute, or simply explore for insights and inspiration. You can find all my repositories listed below.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/github/";
-          },
         },{id: "nav-resume",
           title: "Resume",
           description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
+          },
+        },{id: "nav-github",
+          title: "GitHub",
+          description: "Explore my GitHub repositories, where I share projects related to data science, machine learning, and software development. Check out the code, contribute, or simply explore for insights and inspiration. You can find all my repositories listed below.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/github/";
           },
         },{id: "nav-contacts",
           title: "Contacts",
@@ -74,13 +74,6 @@ ninja.data = [{
               },
             },{id: "dropdown-publication",
               title: "Publication",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-sampleblog",
-              title: "SampleBlog",
               description: "",
               section: "Dropdown",
               handler: () => {
