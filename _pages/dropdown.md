@@ -28,11 +28,6 @@ children:
 
   - title: Publication
     permalink: /publications/
-  - title: divider
-  
-  - title: SampleBlog
-    permalink: /sampleblog/
-
 
   # - title: Repositories
   #   permalink: /repositories/

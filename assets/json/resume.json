@@ -211,6 +211,11 @@
       "icon": "fa-solid fa-language"
     },
     {
+      "language": "Stenography",
+      "fluency": "Expert",
+      "icon": "fa-solid fa-language"
+    },
+    {
       "language": "Hindi",
       "fluency": "Basic",
       "icon": "fa-solid fa-language"
