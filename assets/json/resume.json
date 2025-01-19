@@ -42,7 +42,8 @@
   "volunteer": [
     {
       "organization": "Bangladesh Red Crescent Society",
-      "location": "Chattogram Dist Red Crescent Unit, Red Crescent Bhaban, 395, Anderkilla, Chattogram",
+      "location": "Anderkilla, Chattogram",
+      // "location": "Chattogram Dist Red Crescent Unit, Red Crescent Bhaban, 395, Anderkilla, Chattogram",
       "position": "Member",
       "url": "https://bdrcs.org",
       "startDate": "2025-01-15",
