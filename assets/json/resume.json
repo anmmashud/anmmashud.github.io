@@ -39,27 +39,27 @@
   //     "highlights": ["Relativity"]
   //   }
   // ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
+  "volunteer": [
+    {
+      "organization": "Bangladesh Red Crescent Society",
+      "location": "Chattogram Dist Red Crescent Unit, Red Crescent Bhaban, 395, Anderkilla, Chattogram",
+      "position": "Member",
+      "url": "https://bdrcs.org",
+      "startDate": "2025-01-15",
+      "endDate": "Present",
+      "summary": "I am a member of the Bangladesh Red Crescent Society, Chattogram District Red Crescent Unit. I have been working as a volunteer since 2025. I have participated in various programs organized by the organization.",
+      "highlights": ["First Aid", "Disaster Management", "Blood Donation"]
+    }
+  ],
   "education": [
     {
       "institution": "Chittagong College, Chittagong",
       "location": "Chittagong",
       "url": "https://ctgcollege.gov.bd",
-      "area": "Department of Statistics",
+      "area": "Department of Statistics (Running)",
       "studyType": "Bachelor of Science [BSc]",
       "startDate": "2024-07-01",
-      "endDate": "Ongoing",
+      "endDate": "Running",
       "courses": []
     },
     {

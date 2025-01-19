@@ -8,14 +8,14 @@
     - name: Date of Birth
       value: 04th September, 2004
     - name: Languages
-      value: Bengali, English
+      value: Bengali, English, Stenography
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science [BSc]
+      institution: Chittagong College, Chittagong
+      year: 2029
       description:
         - Description 1.
         - Description 2.
@@ -23,9 +23,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Higher Secondary Certificate [HSC]
+      institution: Lakshmipur Govt. College, Lakshmipur
+      year: 2023
       description:
         - Description 1.
         - Description 2.
