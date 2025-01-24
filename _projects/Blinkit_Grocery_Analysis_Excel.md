@@ -12,15 +12,16 @@ related_publications: true
 
 # Blinkit Analysis
 
-[![Watch Video](https://img.shields.io/badge/Project%20Video-YouTube-red)](https://www.youtube.com/watch?v=klZj_282ApY&t=29s)  
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
-[![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
+<div align="center">
+  <h3>Preview</h3>
+  <img src="assets/img/project-blinkit-store/blinkit_thumbnail.jpg" alt="Old Data" width="600">
+</div>
 
 ## Business Requirement
 
 To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and opportunities for optimization using various `KPIs` and visualizations in `Excel`.
 
-### KPI Requirements
+### KPI's Requirements
 
 1. **Total Sales**: The overall `revenue` generated from all items sold.  
 2. **Average Sales**: The `average revenue` per sale.  
@@ -59,3 +60,30 @@ To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `custo
 7. **All Metrics by Outlet Type**:  
    - **Objective**: Provide a comprehensive view of all key metrics (`Total Sales`, `Average Sales`, `Number of Items`, `Average Rating`) broken down by different outlet types.  
    - **Chart Type**: `Matrix Card` 
+
+
+[![Watch Video](https://img.shields.io/badge/Project%20Video-YouTube-red)](https://www.youtube.com/watch?v=klZj_282ApY&t=29s)  
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
+[![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
+
+
+<div align="center">
+  <h3>Data</h3>
+  <img src="assets/img/project-blinkit-store/data.jpeg" alt="Old Data" width="600">
+</div>
+<div align="center">
+  <h3>Pivot table</h3>
+  <img src="assets/img/project-blinkit-store/design1.jpeg" alt="Old Data" width="600">
+</div>
+<div align="center">
+  <h3>Pivot table</h3>
+  <img src="assets/img/project-blinkit-store/design2.jpeg" alt="Old Data" width="600">
+</div>
+<div align="center">
+  <h3>Pivot table</h3>
+  <img src="assets/img/project-blinkit-store/design3.jpeg" alt="Old Data" width="600">
+</div>
+<div align="center">
+  <h3>Pivot table</h3>
+  <img src="assets/img/project-blinkit-store/design4.jpeg" alt="Old Data" width="600">
+</div>
