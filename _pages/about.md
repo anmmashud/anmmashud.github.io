@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://anmmashud.github.io/resume/'>More info</a> # Address. Contacts. Motto. Etc.
 
 profile:
   align: right
