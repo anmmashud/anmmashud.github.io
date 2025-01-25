@@ -3,10 +3,10 @@ layout: page
 title: Vrinda Store - Data Analysis in Excel
 
 description: This project involves analyzing sales data for Vrinda Store from 2022.
-img: assets/img/project-vrinda-store/vrinda-store-thumbnail-frelancher.png
+img: assets/img/project-vrinda-store/dashboard.jpg
 importance: 1
 category: Excel
-related_publications: true
+related_publications: false
 ---
 
 <div class="col-sm mt-3 mt-md-0">
@@ -101,8 +101,8 @@ To boost sales in 2023:
 
 ## 📥 Downloads:
 
-- 📂 [Download](https://github.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store.xlsx) dashboard in Excel file.
-- 📂 [Download](https://github.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/Vrinda_Store_oriiginal.xlsx) raw dataset in Excel file to practice.
+- 📂 [Download](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store.xlsx) dashboard in Excel file.
+- 📂 [Download](https://raw.githubusercontent.com/anmmashud/Vrinda_Store_Data_Analysis_Excel/main/Vrinda_Store_oriiginal.xlsx) raw dataset in Excel file to practice.
 
 ---
 
