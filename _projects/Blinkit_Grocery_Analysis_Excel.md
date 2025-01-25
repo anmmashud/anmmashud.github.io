@@ -1,48 +1,47 @@
 ---
 layout: page
 title: BlinkIT - Grocery Analysis in Excel
-
-description: To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
+description: To conduct a comprehensive analysis of Blinkit's sales to identify key insights using various KPIs and visualizations in Excel.
 img: assets/img/project-blinkit-store/blinkit_thumbnail.jpg
-
 importance: 1
 category: Excel
 related_publications: true
 ---
-
-# Blinkit Analysis
-
 <div align="center">
   <h3>Preview</h3>
-  <img src="assets/img/project-blinkit-store/blinkit_thumbnail.jpg" alt="Old Data" width="600">
 </div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/blinkit_thumbnail.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
 
 ## Business Requirement
 
-To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and opportunities for optimization using various `KPIs` and visualizations in `Excel`.
+To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and opportunities for optimization using various KPIs and visualizations in **Excel**.
 
 ### KPI's Requirements
 
-1. **Total Sales**: The overall `revenue` generated from all items sold.  
+1. **Total Sales**: The overall revenue generated from all items sold.  
 2. **Average Sales**: The `average revenue` per sale.  
 3. **Number of Items**: The total count of different items sold.  
-4. **Average Rating**: The average `customer rating` for items sold.  
+4. **Average Rating**: The average customer rating for items sold.  
 
 ### Chart Requirements
 
 1. **Total Sales by Fat Content**:  
    - **Objective**: Analyze the impact of `fat content` on `total sales`.  
-   - **Additional KPI Metrics**: Assess how other `KPIs` (`Average Sales`, `Number of Items`, `Average Ratings`) vary with fat content.  
+   - **Additional KPI Metrics**: Assess how other KPIs (Average Sales, Number of Items, Average Ratings) vary with fat content.  
    - **Chart Type**: `Donut Chart`  
 
 2. **Total Sales by Item Type**:  
    - **Objective**: Identify the performance of different items in terms of `total sales`.  
-   - **Additional KPI Metrics**: Assess how other `KPIs` (`Average Sales`, `Number of Items`, `Average Ratings`) vary with `item type`.  
+   - **Additional KPI Metrics**: Assess how other KPIs (Average Sales, Number of Items, Average Ratings) vary with item type.  
    - **Chart Type**: `Bar Chart`  
 
 3. **Fat Content by Outlet for Total Sales**:  
    - **Objective**: Compare `total sales` across different outlets segmented by fat content.  
-   - **Additional KPI Metrics**: Assess how other `KPIs` (`Average Sales`, `Number of Items`, `Average Ratings`) vary with fat content.  
+   - **Additional KPI Metrics**: Assess how other KPIs (Average Sales, Number of Items, Average Ratings) vary with fat content.  
    - **Chart Type**: `Stacked Column Chart`  
 
 4. **Total Sales by Outlet Establishment**:  
@@ -58,32 +57,41 @@ To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `custo
    - **Chart Type**: `Funnel Map`  
 
 7. **All Metrics by Outlet Type**:  
-   - **Objective**: Provide a comprehensive view of all key metrics (`Total Sales`, `Average Sales`, `Number of Items`, `Average Rating`) broken down by different outlet types.  
-   - **Chart Type**: `Matrix Card` 
+   - **Objective**: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.  
+   - **Chart Type**: `Matrix Card`   
 
+### Data Snapshots
+
+Here are examples of raw data and processed outputs:
+
+<div align="center">
+  <h3><b>Data Overview</b></h3>
+</div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/data.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+<div align="center">
+  <h3><b>Pivot Table Snapshots</b></h3>
+</div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/design1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/design2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/design3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/design4.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 
 [![Watch Video](https://img.shields.io/badge/Project%20Video-YouTube-red)](https://www.youtube.com/watch?v=klZj_282ApY&t=29s)  
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
-[![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
-
-
-<div align="center">
-  <h3>Data</h3>
-  <img src="assets/img/project-blinkit-store/data.jpeg" alt="Old Data" width="600">
-</div>
-<div align="center">
-  <h3>Pivot table</h3>
-  <img src="assets/img/project-blinkit-store/design1.jpeg" alt="Old Data" width="600">
-</div>
-<div align="center">
-  <h3>Pivot table</h3>
-  <img src="assets/img/project-blinkit-store/design2.jpeg" alt="Old Data" width="600">
-</div>
-<div align="center">
-  <h3>Pivot table</h3>
-  <img src="assets/img/project-blinkit-store/design3.jpeg" alt="Old Data" width="600">
-</div>
-<div align="center">
-  <h3>Pivot table</h3>
-  <img src="assets/img/project-blinkit-store/design4.jpeg" alt="Old Data" width="600">
-</div>
+[![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)
