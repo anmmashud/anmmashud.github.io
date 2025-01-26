@@ -4,7 +4,7 @@ title: Retail Sales Analysis SQL Project 1
 description: A streamlined and efficient SQL project for managing and analyzing data with precision.
 img: assets/img/Retail_Sales_Analysis_SQL_Project_1/thumbnail.webp
 importance: 1
-category: SQL Data Analysis
+category: SQL - Data Analysis
 related_publications: false
 ---
 
