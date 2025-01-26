@@ -114,9 +114,14 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-blinkit-grocery-analysis-in-excel",
           title: 'BlinkIT - Grocery Analysis in Excel',
-          description: "To conduct a comprehensive analysis of Blinkit&#39;s sales to identify key insights using various KPIs and visualizations in Excel.",
+          description: "Analyzing Blinkit&#39;s sales data using KPIs and Excel visualizations to uncover key insights in Excel.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Blinkit_Grocery_Analysis_Excel/";
+            },},{id: "projects-retail-sales-analysis-sql-project-1",
+          title: 'Retail Sales Analysis SQL Project 1',
+          description: "A streamlined and efficient SQL project for managing and analyzing data with precision.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Retail_Sales_Analysis_SQL_Project_1/";
             },},{id: "projects-vrinda-store-data-analysis-in-excel",
           title: 'Vrinda Store - Data Analysis in Excel',
           description: "This project involves analyzing sales data for Vrinda Store from 2022.",
