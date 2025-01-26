@@ -4,7 +4,7 @@ title: BlinkIT - Grocery Analysis in Excel
 description: Analyzing Blinkit's sales data using KPIs and Excel visualizations to uncover key insights in Excel.
 img: assets/img/project-blinkit-store/blinkit_thumbnail.jpg
 importance: 1
-category: Excel
+category: Excel - Dashboard
 related_publications: false
 ---
 <div align="center">
