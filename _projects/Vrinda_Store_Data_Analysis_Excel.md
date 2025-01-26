@@ -5,7 +5,7 @@ title: Vrinda Store - Data Analysis in Excel
 description: This project involves analyzing sales data for Vrinda Store from 2022.
 img: assets/img/project-vrinda-store/dashboard.jpg
 importance: 1
-category: Excel
+category: Excel - Dashboard
 related_publications: false
 ---
 
