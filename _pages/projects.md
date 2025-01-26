@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [Excel, SQL, Python, Streamlit App]
+display_categories: [Excel - Dashboard, SQL - Data Analysis, Python - Data Analysis, Streamlit App]
 horizontal: false
 ---
 
