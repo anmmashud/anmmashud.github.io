@@ -35,7 +35,7 @@ I’m **A.N.M. Mashud**, a passionate **Data Analyst**, deeply focused on turnin
 
 Currently, I serve as a **Brand Representative** at **[Interactive Cares](https://interactivecares.com)**, a Campus Ambassador for the **[National Eco Olympiad 2025]()**, a **Team Member** at **[NUSDF Bangladesh](https://nusdfbd.com)**, and a **Volunteer** at the **[Bangladesh Red Crescent Society (BDRCS)](https://bdrcs.org)**.
 
-I’m always exploring new ways to enhance my skills in data analysis, continuously learning and applying advanced techniques in statistical analysis, machine learning, and data science. My goal is to transform raw data into meaningful insights that drive informed decision-making.
+I’m always exploring new ways to enhance my skills in data analysis, continuously learning and applying advanced techniques in **Statistical Analysis**, **Machine Learning**, and data science. My goal is to transform raw data into meaningful insights that drive informed decision-making.
 
 ---
 

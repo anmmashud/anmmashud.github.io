@@ -28,26 +28,35 @@
 // ----------- upper code is fine ------------
 
 
-  // "work": [
-  //   {
-  //     "name": "Institute for Advanced Study, Princeton University",
-  //     "position": "Professor of Theoretical Physics",
-  //     "url": "https://example.com",
-  //     "startDate": "1933-01-01",
-  //     "endDate": "1955-01-01",
-  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-  //     "highlights": ["Relativity"]
-  //   }
-  // ],
+  "work": [
+    {
+      "name": "Interactive Cares",
+      "position": "Brand Representative",
+      "url": "https://interactivecares.com",
+      "startDate": "2025-01-27",
+      "endDate": null,
+      "summary": "Representing Interactive Cares by promoting its programs and engaging with students to create awareness about career-focused learning opportunities.",
+      "highlights": ["Brand awareness", "Student engagement", "Event promotion"]
+    },
+    {
+      "name": "NUSDF Bangladesh",
+      "position": "Team Member",
+      "url": "https://nusdfbd.org",
+      "startDate": "2025-01-24",
+      "endDate": null,
+      "summary": "Collaborating with NUSDF Bangladesh to promote sustainable development initiatives and engage students in social impact projects.",
+      "highlights": ["Sustainable development", "Student engagement", "Community impact"]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Bangladesh Red Crescent Society",
       "location": "Anderkilla, Chattogram",
       // "location": "Chattogram Dist Red Crescent Unit, Red Crescent Bhaban, 395, Anderkilla, Chattogram",
-      "position": "Member",
+      "position": "Team Member",
       "url": "https://bdrcs.org",
       "startDate": "2025-01-15",
-      "endDate": "Present",
+      "endDate": null,
       "summary": "I am a member of the Bangladesh Red Crescent Society, Chattogram District Red Crescent Unit. I have been working as a volunteer since 2025. I have participated in various programs organized by the organization.",
       "highlights": ["First Aid", "Disaster Management", "Blood Donation"]
     }
@@ -60,7 +69,7 @@
       "area": "Department of Statistics (Running)",
       "studyType": "Bachelor of Science [BSc]",
       "startDate": "2024-07-01",
-      "endDate": "Running",
+      "endDate": null,
       "courses": []
     },
     {
