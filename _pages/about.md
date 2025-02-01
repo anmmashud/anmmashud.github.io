@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
-  #   <p>+8801746823075</p>
+  #   <p>+8801872809600<b>+8801746823075</p>
   #   <p>anmmashud123@gmail.com</p>
   #   <p>Chittagong, Bangladesh</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: True # includes social icons at the bottom of the page
 ---
 **Welcome to My Data Science Hub**  
 
