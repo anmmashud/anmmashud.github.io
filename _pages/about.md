@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: True # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 **Welcome to My Data Science Hub**  
 
@@ -31,11 +31,11 @@ Whether you're a beginner looking to grasp core concepts or an expert eager to d
 
 **About Me**  
 
-I’m A.N.M. `Mashud`, a passionate `data scientist` and `researcher`, deeply focused on turning raw data into meaningful, actionable insights. With hands-on experience in tools like `Excel`, `SQL`, `Python`, and `Tableau`, I’m all about making complex data challenges simpler and more accessible.
+I’m **A.N.M. Mashud**, a passionate **Data Analyst**, deeply focused on turning raw data into meaningful, actionable insights. With hands-on experience in tools like `Excel`, `SQL`, `Python`, and `Tableau`, I’m all about making complex data challenges simpler and more accessible.  
 
-Right now, I’m working on an exciting AI-driven model designed to help aspiring data analysts learn and grow. I’m always pushing myself to expand my expertise, diving deep into machine learning, data science, and statistical analysis.
+Currently, I serve as a **Brand Representative** at [Interactive Cares](https://interactivecares.com), a **Campus Ambassador** for the [National Eco Olympiad 2025](), a **Team Member** at [NUSDF Bangladesh](https://nusdfbd.com), and a **Volunteer** at the [Bangladesh Red Crescent Society (BDRCS)](https://bdrcs.org).  
 
-Feel free to browse through my work, and don’t hesitate to reach out if you're interested in collaborating, sharing insights, or simply learning more!
+I’m always exploring new ways to enhance my skills in data analysis, continuously learning and applying advanced techniques in statistical analysis, machine learning, and data science. My goal is to transform raw data into meaningful insights that drive informed decision-making.
 
 ---
 
