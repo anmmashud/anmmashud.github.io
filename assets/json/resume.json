@@ -51,13 +51,13 @@
   "volunteer": [
     {
       "organization": "Bangladesh Red Crescent Society",
-      "location": "Anderkilla, Chattogram",
+      "location": "Anderkilla, Chittagong",
       // "location": "Chattogram Dist Red Crescent Unit, Red Crescent Bhaban, 395, Anderkilla, Chattogram",
       "position": "Team Member",
       "url": "https://bdrcs.org",
       "startDate": "2025-01-15",
       "endDate": null,
-      "summary": "I am a member of the Bangladesh Red Crescent Society, Chattogram District Red Crescent Unit. I have been working as a volunteer since 2025. I have participated in various programs organized by the organization.",
+      "summary": "I am a member of the Bangladesh Red Crescent Society, Chittagong District Red Crescent Unit. I have been working as a volunteer since 2025. I have participated in various programs organized by the organization.",
       "highlights": ["First Aid", "Disaster Management", "Blood Donation"]
     }
   ],
