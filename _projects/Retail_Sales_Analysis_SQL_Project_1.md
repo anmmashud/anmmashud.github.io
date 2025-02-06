@@ -409,3 +409,14 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 - **Instagram**: [anmmashud](https://www.instagram.com/anmmashud/)
 - **LinkedIn**: [anm-mashud](https://www.linkedin.com/in/anm-mashud)
 - **WhatsApp**: [+8801872809600](https://wa.me/8801872809600)  
+
+
+## Tutor 
+
+Special thanks to **Zero Analyst**, who helps me to do this project. His social links are given below:
+
+
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
+- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
