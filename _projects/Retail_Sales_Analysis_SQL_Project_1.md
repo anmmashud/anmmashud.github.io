@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Retail Sales Analysis SQL Project 1
+title: SQL Project 1 - Retail Sales Analysis 
 description: This project is ideal for beginners looking to build a solid foundation in SQL.
-img: assets/img/project-blinkit-store/blinkit_thumbnail.jpg
+img: assets/img/project-sql-project-1/SQL_Project_1.jpg
 importance: 1
 category: SQL
 related_publications: false
@@ -12,7 +12,7 @@ related_publications: false
 </div>
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/project-blinkit-store/blinkit_thumbnail.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/project-sql-project-1/SQL_Project_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 # Retail Sales Analysis SQL Project 1
