@@ -117,8 +117,8 @@ ninja.data = [{
           description: "To conduct a comprehensive analysis of Blinkit&#39;s sales to identify key insights using various KPIs and visualizations in Excel.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Blinkit_Grocery_Analysis_Excel/";
-            },},{id: "projects-retail-sales-analysis-sql-project-1",
-          title: 'Retail Sales Analysis SQL Project 1',
+            },},{id: "projects-sql-project-1-retail-sales-analysis",
+          title: 'SQL Project 1 - Retail Sales Analysis',
           description: "This project is ideal for beginners looking to build a solid foundation in SQL.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Retail_Sales_Analysis_SQL_Project_1/";
