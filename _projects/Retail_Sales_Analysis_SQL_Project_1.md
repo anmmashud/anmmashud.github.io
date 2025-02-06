@@ -1,10 +1,10 @@
 ---
 layout: page
-title: BlinkIT - Grocery Analysis in Excel
-description: To conduct a comprehensive analysis of Blinkit's sales to identify key insights using various KPIs and visualizations in Excel.
+title: Retail Sales Analysis SQL Project 1
+description: This project is ideal for beginners looking to build a solid foundation in SQL.
 img: assets/img/project-blinkit-store/blinkit_thumbnail.jpg
 importance: 1
-category: sql
+category: SQL
 related_publications: false
 ---
 <div align="center">
