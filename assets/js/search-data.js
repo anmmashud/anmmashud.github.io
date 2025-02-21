@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
+  },{id: "nav-resume",
+          title: "Resume",
+          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/resume/";
           },
         },{id: "nav-projects",
           title: "Projects",
@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-resume",
-          title: "Resume",
-          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resume/";
-          },
-        },{id: "nav-github",
-          title: "GitHub",
-          description: "Explore my GitHub repositories, where I share projects related to data science, machine learning, and software development. Check out the code, contribute, or simply explore for insights and inspiration. You can find all my repositories listed below.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/github/";
-          },
         },{id: "nav-contacts",
           title: "Contacts",
           description: "Get in touch for collaborations, inquiries, or a chat about data science.",
@@ -44,7 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contacts/";
           },
-        },{id: "dropdown-news",
+        },{id: "nav-aventis-tech",
+          title: "Aventis-Tech",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/aventis-tech.github.io/";
+          },
+        },{id: "dropdown-blog",
+              title: "Blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-news",
               title: "News",
               description: "",
               section: "Dropdown",
