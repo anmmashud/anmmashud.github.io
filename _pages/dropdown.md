@@ -10,6 +10,10 @@ children:
   #   permalink: /resume/
   # - title: divider
 
+  - title: Blog
+    permalink: /blog/
+  - title: divider
+
   - title: News
     permalink: /news/
   - title: divider
