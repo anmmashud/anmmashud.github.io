@@ -30,6 +30,15 @@
 
   "work": [
     {
+      "name": "NUSDF Bangladesh",
+      "position": "Campus Ambassador",
+      "url": "https://nusdfbd.org",
+      "startDate": "2025-02-13",
+      "endDate": null,
+      "summary": "Collaborating with NUSDF Bangladesh to promote sustainable development initiatives and engage students in social impact projects.",
+      "highlights": ["Sustainable development", "Student engagement", "Community impact"]
+    },
+    {
       "name": "Interactive Cares",
       "position": "Brand Representative",
       "url": "https://interactivecares.com",
@@ -37,16 +46,8 @@
       "endDate": null,
       "summary": "Representing Interactive Cares by promoting its programs and engaging with students to create awareness about career-focused learning opportunities.",
       "highlights": ["Brand awareness", "Student engagement", "Event promotion"]
-    },
-    {
-      "name": "NUSDF Bangladesh",
-      "position": "Team Member",
-      "url": "https://nusdfbd.org",
-      "startDate": "2025-01-24",
-      "endDate": null,
-      "summary": "Collaborating with NUSDF Bangladesh to promote sustainable development initiatives and engage students in social impact projects.",
-      "highlights": ["Sustainable development", "Student engagement", "Community impact"]
     }
+    
   ],
   "volunteer": [
     {
