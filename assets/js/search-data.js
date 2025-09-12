@@ -87,6 +87,17 @@ ninja.data = [{
           window.location.href = "/blog/:2025/python-installation-on-windows/";
         
       },
+    },{id: "post-a-post-with-jupyter-notebook",
+      
+        title: "a post with jupyter notebook",
+      
+      description: "an example of a blog post with jupyter notebook",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/:2025/jupyter-notebook/";
+        
+      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
