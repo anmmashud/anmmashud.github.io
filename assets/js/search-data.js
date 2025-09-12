@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-contacts",
-          title: "Contacts",
-          description: "Get in touch for collaborations, inquiries, or a chat about data science.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/contacts/";
           },
         },{id: "nav-aventis-tech",
           title: "Aventis-Tech",
@@ -37,14 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/aventis-tech.github.io/";
           },
-        },{id: "dropdown-blog",
-              title: "Blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-forms",
+        },{id: "nav-contacts",
+          title: "Contacts",
+          description: "Get in touch for collaborations, inquiries, or a chat about data science.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contacts/";
+          },
+        },{id: "dropdown-forms",
               title: "Forms",
               description: "",
               section: "Dropdown",
@@ -107,6 +107,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/:2025/jupyter-notebook/";
+        
+      },
+    },{id: "post-blog",
+      
+        title: "Blog",
+      
+      description: "an example of a blog post with custom blockquotes",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/:2025/blog/";
         
       },
     },{id: "news-a-simple-inline-announcement",
