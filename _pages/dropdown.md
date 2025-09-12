@@ -14,7 +14,8 @@ children:
   # - title: News
   #   permalink: /news/
   # - title: divider
-  
+  - title: Aventis-Tech
+    permalink: /aventis-tech.md/
   - title: Forms
     permalink: /forms/
   - title: divider

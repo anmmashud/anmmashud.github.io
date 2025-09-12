@@ -1,5 +1,16 @@
 ---
 layout: post
+title: a post with jupyter notebook
+date: 2023-07-04 08:57:00-0400
+description: an example of a blog post with jupyter notebook
+tags: formatting jupyter
+categories: sample-posts
+giscus_comments: true
+related_posts: false
+---
+
+```
+layout: post
 title: EDA on US Road Accident (2016-2023)
 date: 2025-09-11 13:09:00
 description: A Step by step guied on Exploratory Data Analysis
@@ -12,8 +23,7 @@ related_publications: false
 toc:
   sidebar: left  
 pretty_table: true
----
-
+```
 ### Thumbnail
 
 <div align="center">
