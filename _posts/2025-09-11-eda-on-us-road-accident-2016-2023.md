@@ -6,6 +6,7 @@ description: A Step by step guied on Exploratory Data Analysis
 categories: education, EDA, python, data analysis
 tags: jupyter windows installation
 featured: true
+img: assets/img/eda-on-us-road-accident-2016-2023/thumbnail.png
 giscus_comments: false
 related_publications: false
 toc:
@@ -13,7 +14,7 @@ toc:
 pretty_table: true
 ---
 
-<!-- ### Thumbnail
+### Thumbnail
 
 <div align="center">
   <h3>Preview</h3>
@@ -21,7 +22,7 @@ pretty_table: true
 
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/eda-on-us-road-accident-2016-2023/thumbnail.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-</div>  -->
+</div> 
 
 # Resources
 
