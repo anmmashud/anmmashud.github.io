@@ -124,6 +124,11 @@ ninja.data = [{
           description: "This project involves analyzing sales data for Vrinda Store from 2022.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Vrinda_Store_Data_Analysis_Excel/";
+            },},{id: "projects-eda-on-us-road-accident-2016-2023",
+          title: 'EDA on US Road Accident (2016-2023)',
+          description: "Exploratory Data Analysis using Kaggle Dataset.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eda-on-us-road-accident-2016-2023/";
             },},{
         id: 'social-email',
         title: 'email',

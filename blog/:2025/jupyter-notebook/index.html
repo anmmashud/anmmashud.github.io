@@ -9,7 +9,64 @@
   &lt;p&gt;Sorry, the notebook you are looking for does not exist.&lt;/p&gt;
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endif</span><span class="w"> </span><span class="cp">%}</span>
 {:/nomarkdown}
-</code></pre></div></div> <p>Let’s break it down: this is possible thanks to <a href="https://github.com/red-data-tools/jekyll-jupyter-notebook" rel="external nofollow noopener" target="_blank">Jekyll Jupyter Notebook plugin</a> that allows you to embed jupyter notebooks in your posts. It basically calls <a href="https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html" rel="external nofollow noopener" target="_blank"><code class="language-plaintext highlighter-rouge">jupyter nbconvert --to html</code></a> to convert the notebook to an html page and then includes it in the post. Since <a href="https://jekyllrb.com/docs/configuration/markdown/" rel="external nofollow noopener" target="_blank">Kramdown</a> is the default Markdown renderer for Jekyll, we need to surround the call to the plugin with the <a href="https://kramdown.gettalong.org/syntax.html#extensions" rel="external nofollow noopener" target="_blank">::nomarkdown</a> tag so that it stops processing this part with Kramdown and outputs the content as-is.</p> <p>The plugin takes as input the path to the notebook, but it assumes the file exists. If you want to check if the file exists before calling the plugin, you can use the <code class="language-plaintext highlighter-rouge">file_exists</code> filter. This avoids getting a 404 error from the plugin and ending up displaying the main page inside of it instead. If the file does not exist, you can output a message to the user. The code displayed above outputs the following:</p> <div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;"> <div class="jupyter-notebook-iframe-container"> <iframe src="/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe> </div> </div> <p>Note that the jupyter notebook supports both light and dark themes.</p> </div> </article> <div id="giscus_thread" style="max-width: 930px; margin: 0 auto;"> <script>
+</code></pre></div></div> <div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;"> <div class="jupyter-notebook-iframe-container"> <iframe src="/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe> </div> </div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{::nomarkdown}
+
+
+
+&lt;div
+  class="jupyter-notebook"
+  style="position: relative; width: 100%; margin: 0 auto;"&gt;
+  &lt;div class="jupyter-notebook-iframe-container"&gt;
+    &lt;iframe
+      src="/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html"
+      style="position: absolute; top: 0; left: 0; border-style: none;"
+      width="100%"
+      height="100%"
+      onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+{:/nomarkdown}
+</code></pre></div></div> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{::nomarkdown}
+
+
+
+&lt;div
+  class="jupyter-notebook"
+  style="position: relative; width: 100%; margin: 0 auto;"&gt;
+  &lt;div class="jupyter-notebook-iframe-container"&gt;
+    &lt;iframe
+      src="/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html"
+      style="position: absolute; top: 0; left: 0; border-style: none;"
+      width="100%"
+      height="100%"
+      onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+{:/nomarkdown}
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{::</span><span class="n">nomarkdown</span><span class="p">}</span>
+
+
+
+<span class="o">&lt;</span><span class="n">div</span>
+  <span class="n">class</span><span class="o">=</span><span class="sh">"</span><span class="s">jupyter-notebook</span><span class="sh">"</span>
+  <span class="n">style</span><span class="o">=</span><span class="sh">"</span><span class="s">position: relative; width: 100%; margin: 0 auto;</span><span class="sh">"</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="n">div</span> <span class="n">class</span><span class="o">=</span><span class="sh">"</span><span class="s">jupyter-notebook-iframe-container</span><span class="sh">"</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="n">iframe</span>
+      <span class="n">src</span><span class="o">=</span><span class="sh">"</span><span class="s">/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html</span><span class="sh">"</span>
+      <span class="n">style</span><span class="o">=</span><span class="sh">"</span><span class="s">position: absolute; top: 0; left: 0; border-style: none;</span><span class="sh">"</span>
+      <span class="n">width</span><span class="o">=</span><span class="sh">"</span><span class="s">100%</span><span class="sh">"</span>
+      <span class="n">height</span><span class="o">=</span><span class="sh">"</span><span class="s">100%</span><span class="sh">"</span>
+      <span class="n">onload</span><span class="o">=</span><span class="sh">"</span><span class="s">this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + </span><span class="sh">'</span><span class="s">px</span><span class="sh">'"</span><span class="o">&gt;&lt;/</span><span class="n">iframe</span><span class="o">&gt;</span>
+  <span class="o">&lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+<span class="o">&lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+
+
+<span class="p">{:</span><span class="o">/</span><span class="n">nomarkdown</span><span class="p">}</span>
+</code></pre></div></div> </div> </article> <div id="giscus_thread" style="max-width: 930px; margin: 0 auto;"> <script>
       let giscusTheme = determineComputedTheme();
       let giscusAttributes = {
         src: 'https://giscus.app/client.js',
