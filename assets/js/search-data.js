@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-aventis-tech",
-          title: "Aventis-Tech",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/https:/aventis-tech.github.io/";
-          },
         },{id: "nav-contacts",
           title: "Contacts",
           description: "Get in touch for collaborations, inquiries, or a chat about data science.",
@@ -79,27 +72,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -113,6 +85,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
+              },
+            },{id: "dropdown-aventis-tech",
+              title: "Aventis-Tech",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/aventis-tech.md/";
               },
             },{id: "dropdown-forms",
               title: "Forms",
@@ -163,18 +142,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/github/";
               },
-            },{id: "post-eda-on-us-road-accident-2016-2023",
-        
-          title: "EDA on US Road Accident (2016-2023)",
-        
-        description: "A Step by step guied on Exploratory Data Analysis",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/eda-on-us-road-accident-2016-2023/";
-          
-        },
-      },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -348,6 +316,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/post-bibliography/";
+          
+        },
+      },{id: "post-a-post-with-jupyter-notebook",
+        
+          title: "a post with jupyter notebook",
+        
+        description: "an example of a blog post with jupyter notebook",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/eda-on-us-road-accident-2016-2023/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
