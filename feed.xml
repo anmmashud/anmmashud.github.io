@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://anmmashud.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://anmmashud.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-09-12T10:09:31+00:00</updated><id>https://anmmashud.github.io/feed.xml</id><title type="html">A.N.M. Mashud</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">EDA on US Road Accident (2016-2023)</title><link href="https://anmmashud.github.io/blog/:2025/eda-on-us-road-accident-2016-2023/" rel="alternate" type="text/html" title="EDA on US Road Accident (2016-2023)"/><published>2025-09-11T13:09:00+00:00</published><updated>2025-09-11T13:09:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/eda-on-us-road-accident-2016-2023</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/eda-on-us-road-accident-2016-2023/"><![CDATA[<h3 id="thumbnail">Thumbnail</h3> <div align="center"> <h3>Preview</h3> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/eda-on-us-road-accident-2016-2023/thumbnail-480.webp 480w,/assets/img/eda-on-us-road-accident-2016-2023/thumbnail-800.webp 800w,/assets/img/eda-on-us-road-accident-2016-2023/thumbnail-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/eda-on-us-road-accident-2016-2023/thumbnail.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <h1 id="resources">Resources</h1> <ul> <li><a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">Dataset</a></li> <li><a href="https://www.kaggle.com/code/anmmashud/eda-on-us-road-accident-2016-2023?scriptVersionId=261373117" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"/></a></li> <li><a href="https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/anmmashud/eda-on-us-road-accident-2016-2023.38fb807a-c983-4aa9-8b28-58305f8e5873.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20250912/auto/storage/goog4_request%26X-Goog-Date%3D20250912T083005Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D8818c5188a79f969cd182b5925fe1ae05e40975fd862d383c774a646cd9dfd49da863c8ed9605d149d8ae9e20b67f7018b2905a4a58beb6b44eccc0e90dc8186bfbb50567f0e7f44643383306f00d3a3c1cfcd095ceda1e54d135a867280ff0b49be4561af632c1cd7fce4e60aeea70bace9b3c9e0a7eb37630944a0b3e614ad9dff61fa02bca4c9d18842596b04fe9c062b200fc282b376bdd4845f22a053edf26440a119376a5a7fa3b3701c585fae5f2cb45a2e0b1f52e6aecde6c26e9fbb8fea5049a6284edcb820f2805e0449b3265ccd7cac300331c004cd10f0ee902b5c92af4ed3d1b3c529fe6ac3ff1780a6eb4f71e0e47d764177d691ec7629ebd1" target="_blank"><img align="left" alt="Colab" title="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/></a></li> </ul> <h1 id="roadmap">Roadmap</h1> <h3 id="with-python-snippet">with python snippet</h3> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{::</span><span class="n">nomarkdown</span><span class="p">}</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://anmmashud.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://anmmashud.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-09-12T10:42:39+00:00</updated><id>https://anmmashud.github.io/feed.xml</id><title type="html">A.N.M. Mashud</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">EDA on US Road Accident (2016-2023)</title><link href="https://anmmashud.github.io/blog/:2025/eda-on-us-road-accident-2016-2023/" rel="alternate" type="text/html" title="EDA on US Road Accident (2016-2023)"/><published>2025-09-11T13:09:00+00:00</published><updated>2025-09-11T13:09:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/eda-on-us-road-accident-2016-2023</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/eda-on-us-road-accident-2016-2023/"><![CDATA[<h3 id="thumbnail">Thumbnail</h3> <div align="center"> <h3>Preview</h3> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/eda-on-us-road-accident-2016-2023/thumbnail-480.webp 480w,/assets/img/eda-on-us-road-accident-2016-2023/thumbnail-800.webp 800w,/assets/img/eda-on-us-road-accident-2016-2023/thumbnail-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/eda-on-us-road-accident-2016-2023/thumbnail.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <h1 id="resources">Resources</h1> <ul> <li><a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">Dataset</a></li> <li><a href="https://www.kaggle.com/code/anmmashud/eda-on-us-road-accident-2016-2023?scriptVersionId=261373117" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"/></a></li> <li><a href="https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/anmmashud/eda-on-us-road-accident-2016-2023.38fb807a-c983-4aa9-8b28-58305f8e5873.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20250912/auto/storage/goog4_request%26X-Goog-Date%3D20250912T083005Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D8818c5188a79f969cd182b5925fe1ae05e40975fd862d383c774a646cd9dfd49da863c8ed9605d149d8ae9e20b67f7018b2905a4a58beb6b44eccc0e90dc8186bfbb50567f0e7f44643383306f00d3a3c1cfcd095ceda1e54d135a867280ff0b49be4561af632c1cd7fce4e60aeea70bace9b3c9e0a7eb37630944a0b3e614ad9dff61fa02bca4c9d18842596b04fe9c062b200fc282b376bdd4845f22a053edf26440a119376a5a7fa3b3701c585fae5f2cb45a2e0b1f52e6aecde6c26e9fbb8fea5049a6284edcb820f2805e0449b3265ccd7cac300331c004cd10f0ee902b5c92af4ed3d1b3c529fe6ac3ff1780a6eb4f71e0e47d764177d691ec7629ebd1" target="_blank"><img align="left" alt="Colab" title="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/></a></li> </ul> <h1 id="roadmap">Roadmap</h1> <h3 id="with-python-snippet">with python snippet</h3> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+</pre></td><td class="rouge-code"><pre><span class="p">{::</span><span class="n">nomarkdown</span><span class="p">}</span>
 
 
 
@@ -17,20 +36,56 @@
 
 
 <span class="p">{:</span><span class="o">/</span><span class="n">nomarkdown</span><span class="p">}</span>
-</code></pre></div></div>]]></content><author><name></name></author><category term="education,"/><category term="EDA,"/><category term="python,"/><category term="data"/><category term="analysis"/><category term="jupyter"/><category term="windows"/><category term="installation"/><summary type="html"><![CDATA[A Step by step guied on Exploratory Data Analysis]]></summary></entry><entry><title type="html">Install Jupyter on Windows</title><link href="https://anmmashud.github.io/blog/:2025/jupyter-installation-on-windows/" rel="alternate" type="text/html" title="Install Jupyter on Windows"/><published>2025-01-01T13:09:00+00:00</published><updated>2025-01-01T13:09:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/jupyter-installation-on-windows</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/jupyter-installation-on-windows/"><![CDATA[<h1 id="installing-jupyter-notebook-or-anaconda-on-windows">Installing Jupyter Notebook or Anaconda on Windows</h1> <p>This guide provides simple and effective instructions for installing Jupyter Notebook on a Windows system using Python. Alternatively, for a better experience, you can install <strong>Anaconda</strong> or <strong>Miniconda</strong>, which come with Jupyter and additional tools pre-installed. It also includes solutions for common issues during the installation process.</p> <hr/> <h2 id="prerequisites">Prerequisites</h2> <ul> <li><strong>Python Installed</strong>: Ensure Python is installed on your system if you plan to use Jupyter directly. If not, download it from the <a href="https://www.python.org/downloads/">official Python website</a>.</li> <li><strong>Operating System</strong>: Windows 10 or later.</li> </ul> <hr/> <h2 id="steps">Steps</h2> <h3 id="option-1-install-jupyter-notebook-if-you-only-need-notebook">Option 1: Install Jupyter Notebook (If you only need Notebook)</h3> <ol> <li>Open your Command Prompt.</li> <li> <p>Run the following command to install Jupyter Notebook:</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">-m</span> pip <span class="nb">install </span>jupyter
-</code></pre></div> </div> <p>This command uses <code class="language-plaintext highlighter-rouge">pip</code> (Python’s package installer) to download and install Jupyter Notebook.</p> </li> </ol> <hr/> <h3 id="option-2-install-anaconda-or-miniconda-recommended">Option 2: Install Anaconda or Miniconda (Recommended)</h3> <ol> <li><strong>Visit the Download Pages</strong>: <ul> <li><a href="https://www.anaconda.com/products/distribution">Download Anaconda</a></li> <li><a href="https://docs.conda.io/en/latest/miniconda.html">Download Miniconda</a></li> </ul> </li> <li><strong>Choose the Right Installer</strong>: <ul> <li>Select the installer suitable for your system (e.g., Windows 64-bit).</li> <li>If you’re unsure which to choose, refer to the table below for guidance.</li> </ul> <p><strong>Comparison Between Anaconda and Miniconda</strong>:</p> <table> <thead> <tr> <th>Feature</th> <th>Anaconda</th> <th>Miniconda</th> </tr> </thead> <tbody> <tr> <td><strong>Includes conda</strong></td> <td>Yes</td> <td>Yes</td> </tr> <tr> <td><strong>Includes Anaconda Navigator</strong></td> <td>Yes</td> <td>No</td> </tr> <tr> <td><strong>Number of Packages</strong></td> <td>Over 300</td> <td>Less than 70</td> </tr> <tr> <td><strong>Install Space Required</strong></td> <td>Approximately 4.4 GB</td> <td>Approximately 480 MB</td> </tr> </tbody> </table> <p><strong>Recommendation</strong>:</p> <ul> <li>Choose <strong>Anaconda</strong> for a ready-to-use environment with many pre-installed packages.</li> <li>Choose <strong>Miniconda</strong> for a lightweight installation, adding only the packages you need.</li> </ul> </li> <li><strong>Run the Installer</strong>: <ul> <li>After downloading the installer, double-click to run it.</li> <li>Follow the on-screen instructions.</li> </ul> </li> </ol> <hr/> <h3 id="resolve-installation-issues-if-any">Resolve Installation Issues (If Any)</h3> <p>If you encounter any problems during installation, click on the dropdown menu below for solutions:</p> <details> <summary><strong>Common Issues and Solutions</strong></summary> 1. **Theme Errors or Conflicting Packages**: - If you see an error like: ``` AttributeError: module 'notebook.services.contents.filemanager' has no attribute 'themes' ``` Or face other theme-related or package conflicts, follow these steps: 1. Uninstall all Jupyter-related packages by running: ```bash pip uninstall jupyter jupyterlab notebook nbconvert nbformat ``` 2. Clear the pip cache to remove residual files: ```bash pip cache purge ``` 3. Reinstall Jupyter Notebook: ```bash python -m pip install jupyter ``` 2. **'jupyter' is not recognized as an internal or external command**: - This error occurs when the Python Scripts folder is not in your system's PATH. - Solution: - Add the Python Scripts folder (e.g., `C:\Users\YourUsername\AppData\Local\Programs\Python\PythonXX\Scripts`) to your system's PATH environment variable. - Restart your Command Prompt after making the changes. 3. **Outdated pip Version**: - An outdated pip version can cause installation problems. - Solution: - Upgrade pip by running: ```bash python -m pip install --upgrade pip ``` 4. **Missing Dependencies**: - Missing dependencies can lead to incomplete installations. - Solution: - Install required dependencies with: ```bash python -m pip install --upgrade setuptools wheel ``` </details> <hr/> <h2 id="additional-notes">Additional Notes</h2> <ul> <li><strong>For Anaconda Users</strong>: If you’re new to Python or Jupyter, Anaconda is the easiest way to get started. It includes Jupyter Notebook, Python, and numerous pre-installed libraries and tools for data science.</li> <li><strong>For Miniconda Users</strong>: If you want more control over which packages are installed, Miniconda is a great option.</li> <li>Always ensure you are running the latest version of Python and pip.</li> </ul> <p>For more information:</p> <ul> <li><a href="https://docs.anaconda.com/">Anaconda Documentation</a></li> <li><a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda Documentation</a></li> <li><a href="https://jupyter.org/">Jupyter Documentation</a></li> </ul> <p>By following these steps, you will have Jupyter Notebook, Anaconda, or Miniconda installed on your Windows system, ready for your data science and machine learning projects. Happy coding!</p> <p>Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version of Python on Windows.</p> <h4 id="step-1-download-python"><strong>Step 1:</strong> Download Python</h4> <ol> <li>Download the Python installer for Windows directly: <a href="https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe">Python 3.13.1</a></li> <li>If it does not work, visit <a href="https://www.python.org">https://www.python.org</a>, click on <strong>Downloads</strong>, and select the version for your operating system.</li> </ol> <h4 id="step-2-run-the-installer"><strong>Step 2:</strong> Run the Installer</h4> <ol> <li>Locate the downloaded file in your Downloads folder.</li> <li>Double-click to run the installer.</li> <li>Click <strong>Install Now</strong> for default settings or choose <strong>Customize Installation</strong> for advanced options.</li> </ol> <h4 id="step-3-verify-installation"><strong>Step 3:</strong> Verify Installation</h4> <ol> <li>After completion, open <strong>Command Prompt</strong>: <ul> <li>Press <code class="language-plaintext highlighter-rouge">Win + R</code>, type <code class="language-plaintext highlighter-rouge">cmd</code>, and press Enter.</li> <li>Alternatively, press the Windows key on your keyboard, type <code class="language-plaintext highlighter-rouge">cmd</code>, and hit Enter.</li> </ul> </li> <li>Check the Python version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">--version</span>
-</code></pre></div></div> <ol> <li>Check the pip version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nt">--version</span>
-</code></pre></div></div> <h4 id="step-4-test-python">Step 4: Test Python</h4> <p>Open Python in Command Prompt:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python
-</code></pre></div></div> <p>Run a test command:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">Hello, World!</span><span class="sh">"</span><span class="p">)</span>
-</code></pre></div></div> <p>Output:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hello, World!
-</code></pre></div></div> <p>Exit Python:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">exit</span><span class="p">()</span>
-</code></pre></div></div> <p>Here are my screenshots. Don’t worry about the terminal color; you can customize it as well.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss1-480.webp 480w,/assets/img/python_install_win_ss1-800.webp 800w,/assets/img/python_install_win_ss1-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss2-480.webp 480w,/assets/img/python_install_win_ss2-800.webp 800w,/assets/img/python_install_win_ss2-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> </div> <h4 id="conclusion">Conclusion</h4> <p>You’ve successfully installed Python on Windows. Stay tuned for the next blog!</p>]]></content><author><name></name></author><category term="education"/><category term="jupyter"/><category term="windows"/><category term="installation"/><summary type="html"><![CDATA[Description for jupyter installation is coming soon...!]]></summary></entry><entry><title type="html">Install Python on Windows</title><link href="https://anmmashud.github.io/blog/:2025/python-installation-on-windows/" rel="alternate" type="text/html" title="Install Python on Windows"/><published>2025-01-01T10:09:00+00:00</published><updated>2025-01-01T10:09:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/python-installation-on-windows</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/python-installation-on-windows/"><![CDATA[<p>Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version of Python on Windows.</p> <h4 id="step-1-download-python"><strong>Step 1:</strong> Download Python</h4> <ol> <li>Download the Python installer for Windows directly: <a href="https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe">Python 3.13.1</a></li> <li>If it does not work, visit <a href="https://www.python.org">https://www.python.org</a>, click on <strong>Downloads</strong>, and select the version for your operating system.</li> </ol> <h4 id="step-2-run-the-installer"><strong>Step 2:</strong> Run the Installer</h4> <ol> <li>Locate the downloaded file in your Downloads folder.</li> <li>Double-click to run the installer.</li> <li>Click <strong>Install Now</strong> for default settings or choose <strong>Customize Installation</strong> for advanced options.</li> </ol> <h4 id="step-3-verify-installation"><strong>Step 3:</strong> Verify Installation</h4> <ol> <li>After completion, open <strong>Command Prompt</strong>: <ul> <li>Press <code class="language-plaintext highlighter-rouge">Win + R</code>, type <code class="language-plaintext highlighter-rouge">cmd</code>, and press Enter.</li> <li>Alternatively, press the Windows key on your keyboard, type <code class="language-plaintext highlighter-rouge">cmd</code>, and hit Enter.</li> </ul> </li> <li>Check the Python version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">--version</span>
-</code></pre></div></div> <ol> <li>Check the pip version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nt">--version</span>
-</code></pre></div></div> <h4 id="step-4-test-python">Step 4: Test Python</h4> <p>Open Python in Command Prompt:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python
-</code></pre></div></div> <p>Run a test command:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">Hello, World!</span><span class="sh">"</span><span class="p">)</span>
-</code></pre></div></div> <p>Output:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hello, World!
-</code></pre></div></div> <p>Exit Python:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">exit</span><span class="p">()</span>
-</code></pre></div></div> <p>Here are my screenshots. Don’t worry about the terminal color; you can customize it as well.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss1-480.webp 480w,/assets/img/python_install_win_ss1-800.webp 800w,/assets/img/python_install_win_ss1-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss2-480.webp 480w,/assets/img/python_install_win_ss2-800.webp 800w,/assets/img/python_install_win_ss2-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> </div> <h4 id="conclusion">Conclusion</h4> <p>You’ve successfully installed Python on Windows. Stay tuned for the next blog!</p>]]></content><author><name></name></author><category term="education"/><category term="python"/><category term="windows"/><category term="pip"/><category term="installation"/><summary type="html"><![CDATA[Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version.]]></summary></entry><entry><title type="html">a post with jupyter notebook</title><link href="https://anmmashud.github.io/blog/:2025/jupyter-notebook/" rel="alternate" type="text/html" title="a post with jupyter notebook"/><published>2023-07-04T12:57:00+00:00</published><updated>2023-07-04T12:57:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/jupyter-notebook</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/jupyter-notebook/"><![CDATA[<p>To include a jupyter notebook in a post, you can use the following code:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{::nomarkdown}
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name></name></author><category term="education,"/><category term="EDA,"/><category term="python,"/><category term="data"/><category term="analysis"/><category term="jupyter"/><category term="windows"/><category term="installation"/><summary type="html"><![CDATA[A Step by step guied on Exploratory Data Analysis]]></summary></entry><entry><title type="html">Install Jupyter on Windows</title><link href="https://anmmashud.github.io/blog/:2025/jupyter-installation-on-windows/" rel="alternate" type="text/html" title="Install Jupyter on Windows"/><published>2025-01-01T13:09:00+00:00</published><updated>2025-01-01T13:09:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/jupyter-installation-on-windows</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/jupyter-installation-on-windows/"><![CDATA[<h1 id="installing-jupyter-notebook-or-anaconda-on-windows">Installing Jupyter Notebook or Anaconda on Windows</h1> <p>This guide provides simple and effective instructions for installing Jupyter Notebook on a Windows system using Python. Alternatively, for a better experience, you can install <strong>Anaconda</strong> or <strong>Miniconda</strong>, which come with Jupyter and additional tools pre-installed. It also includes solutions for common issues during the installation process.</p> <hr/> <h2 id="prerequisites">Prerequisites</h2> <ul> <li><strong>Python Installed</strong>: Ensure Python is installed on your system if you plan to use Jupyter directly. If not, download it from the <a href="https://www.python.org/downloads/">official Python website</a>.</li> <li><strong>Operating System</strong>: Windows 10 or later.</li> </ul> <hr/> <h2 id="steps">Steps</h2> <h3 id="option-1-install-jupyter-notebook-if-you-only-need-notebook">Option 1: Install Jupyter Notebook (If you only need Notebook)</h3> <ol> <li>Open your Command Prompt.</li> <li> <p>Run the following command to install Jupyter Notebook:</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>python <span class="nt">-m</span> pip <span class="nb">install </span>jupyter
+</pre></td></tr></tbody></table></code></pre></div> </div> <p>This command uses <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>pip
+</pre></td></tr></tbody></table></code> (Python’s package installer) to download and install Jupyter Notebook.</p> </li> </ol> <hr/> <h3 id="option-2-install-anaconda-or-miniconda-recommended">Option 2: Install Anaconda or Miniconda (Recommended)</h3> <ol> <li><strong>Visit the Download Pages</strong>: <ul> <li><a href="https://www.anaconda.com/products/distribution">Download Anaconda</a></li> <li><a href="https://docs.conda.io/en/latest/miniconda.html">Download Miniconda</a></li> </ul> </li> <li><strong>Choose the Right Installer</strong>: <ul> <li>Select the installer suitable for your system (e.g., Windows 64-bit).</li> <li>If you’re unsure which to choose, refer to the table below for guidance.</li> </ul> <p><strong>Comparison Between Anaconda and Miniconda</strong>:</p> <table> <thead> <tr> <th>Feature</th> <th>Anaconda</th> <th>Miniconda</th> </tr> </thead> <tbody> <tr> <td><strong>Includes conda</strong></td> <td>Yes</td> <td>Yes</td> </tr> <tr> <td><strong>Includes Anaconda Navigator</strong></td> <td>Yes</td> <td>No</td> </tr> <tr> <td><strong>Number of Packages</strong></td> <td>Over 300</td> <td>Less than 70</td> </tr> <tr> <td><strong>Install Space Required</strong></td> <td>Approximately 4.4 GB</td> <td>Approximately 480 MB</td> </tr> </tbody> </table> <p><strong>Recommendation</strong>:</p> <ul> <li>Choose <strong>Anaconda</strong> for a ready-to-use environment with many pre-installed packages.</li> <li>Choose <strong>Miniconda</strong> for a lightweight installation, adding only the packages you need.</li> </ul> </li> <li><strong>Run the Installer</strong>: <ul> <li>After downloading the installer, double-click to run it.</li> <li>Follow the on-screen instructions.</li> </ul> </li> </ol> <hr/> <h3 id="resolve-installation-issues-if-any">Resolve Installation Issues (If Any)</h3> <p>If you encounter any problems during installation, click on the dropdown menu below for solutions:</p> <details> <summary><strong>Common Issues and Solutions</strong></summary> 1. **Theme Errors or Conflicting Packages**: - If you see an error like: ``` AttributeError: module 'notebook.services.contents.filemanager' has no attribute 'themes' ``` Or face other theme-related or package conflicts, follow these steps: 1. Uninstall all Jupyter-related packages by running: ```bash pip uninstall jupyter jupyterlab notebook nbconvert nbformat ``` 2. Clear the pip cache to remove residual files: ```bash pip cache purge ``` 3. Reinstall Jupyter Notebook: ```bash python -m pip install jupyter ``` 2. **'jupyter' is not recognized as an internal or external command**: - This error occurs when the Python Scripts folder is not in your system's PATH. - Solution: - Add the Python Scripts folder (e.g., `C:\Users\YourUsername\AppData\Local\Programs\Python\PythonXX\Scripts`) to your system's PATH environment variable. - Restart your Command Prompt after making the changes. 3. **Outdated pip Version**: - An outdated pip version can cause installation problems. - Solution: - Upgrade pip by running: ```bash python -m pip install --upgrade pip ``` 4. **Missing Dependencies**: - Missing dependencies can lead to incomplete installations. - Solution: - Install required dependencies with: ```bash python -m pip install --upgrade setuptools wheel ``` </details> <hr/> <h2 id="additional-notes">Additional Notes</h2> <ul> <li><strong>For Anaconda Users</strong>: If you’re new to Python or Jupyter, Anaconda is the easiest way to get started. It includes Jupyter Notebook, Python, and numerous pre-installed libraries and tools for data science.</li> <li><strong>For Miniconda Users</strong>: If you want more control over which packages are installed, Miniconda is a great option.</li> <li>Always ensure you are running the latest version of Python and pip.</li> </ul> <p>For more information:</p> <ul> <li><a href="https://docs.anaconda.com/">Anaconda Documentation</a></li> <li><a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda Documentation</a></li> <li><a href="https://jupyter.org/">Jupyter Documentation</a></li> </ul> <p>By following these steps, you will have Jupyter Notebook, Anaconda, or Miniconda installed on your Windows system, ready for your data science and machine learning projects. Happy coding!</p> <p>Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version of Python on Windows.</p> <h4 id="step-1-download-python"><strong>Step 1:</strong> Download Python</h4> <ol> <li>Download the Python installer for Windows directly: <a href="https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe">Python 3.13.1</a></li> <li>If it does not work, visit <a href="https://www.python.org">https://www.python.org</a>, click on <strong>Downloads</strong>, and select the version for your operating system.</li> </ol> <h4 id="step-2-run-the-installer"><strong>Step 2:</strong> Run the Installer</h4> <ol> <li>Locate the downloaded file in your Downloads folder.</li> <li>Double-click to run the installer.</li> <li>Click <strong>Install Now</strong> for default settings or choose <strong>Customize Installation</strong> for advanced options.</li> </ol> <h4 id="step-3-verify-installation"><strong>Step 3:</strong> Verify Installation</h4> <ol> <li>After completion, open <strong>Command Prompt</strong>: <ul> <li>Press <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>Win + R
+</pre></td></tr></tbody></table></code>, type <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>cmd
+</pre></td></tr></tbody></table></code>, and press Enter.</li> <li>Alternatively, press the Windows key on your keyboard, type <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>cmd
+</pre></td></tr></tbody></table></code>, and hit Enter.</li> </ul> </li> <li>Check the Python version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>python <span class="nt">--version</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <ol> <li>Check the pip version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>pip <span class="nt">--version</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <h4 id="step-4-test-python">Step 4: Test Python</h4> <p>Open Python in Command Prompt:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>python
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Run a test command:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">Hello, World!</span><span class="sh">"</span><span class="p">)</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Output:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>Hello, World!
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Exit Python:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nf">exit</span><span class="p">()</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Here are my screenshots. Don’t worry about the terminal color; you can customize it as well.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss1-480.webp 480w,/assets/img/python_install_win_ss1-800.webp 800w,/assets/img/python_install_win_ss1-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss2-480.webp 480w,/assets/img/python_install_win_ss2-800.webp 800w,/assets/img/python_install_win_ss2-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> </div> <h4 id="conclusion">Conclusion</h4> <p>You’ve successfully installed Python on Windows. Stay tuned for the next blog!</p>]]></content><author><name></name></author><category term="education"/><category term="jupyter"/><category term="windows"/><category term="installation"/><summary type="html"><![CDATA[Description for jupyter installation is coming soon...!]]></summary></entry><entry><title type="html">Install Python on Windows</title><link href="https://anmmashud.github.io/blog/:2025/python-installation-on-windows/" rel="alternate" type="text/html" title="Install Python on Windows"/><published>2025-01-01T10:09:00+00:00</published><updated>2025-01-01T10:09:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/python-installation-on-windows</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/python-installation-on-windows/"><![CDATA[<p>Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version of Python on Windows.</p> <h4 id="step-1-download-python"><strong>Step 1:</strong> Download Python</h4> <ol> <li>Download the Python installer for Windows directly: <a href="https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe">Python 3.13.1</a></li> <li>If it does not work, visit <a href="https://www.python.org">https://www.python.org</a>, click on <strong>Downloads</strong>, and select the version for your operating system.</li> </ol> <h4 id="step-2-run-the-installer"><strong>Step 2:</strong> Run the Installer</h4> <ol> <li>Locate the downloaded file in your Downloads folder.</li> <li>Double-click to run the installer.</li> <li>Click <strong>Install Now</strong> for default settings or choose <strong>Customize Installation</strong> for advanced options.</li> </ol> <h4 id="step-3-verify-installation"><strong>Step 3:</strong> Verify Installation</h4> <ol> <li>After completion, open <strong>Command Prompt</strong>: <ul> <li>Press <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>Win + R
+</pre></td></tr></tbody></table></code>, type <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>cmd
+</pre></td></tr></tbody></table></code>, and press Enter.</li> <li>Alternatively, press the Windows key on your keyboard, type <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>cmd
+</pre></td></tr></tbody></table></code>, and hit Enter.</li> </ul> </li> <li>Check the Python version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>python <span class="nt">--version</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <ol> <li>Check the pip version:</li> </ol> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>pip <span class="nt">--version</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <h4 id="step-4-test-python">Step 4: Test Python</h4> <p>Open Python in Command Prompt:</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>python
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Run a test command:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">Hello, World!</span><span class="sh">"</span><span class="p">)</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Output:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>Hello, World!
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Exit Python:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nf">exit</span><span class="p">()</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Here are my screenshots. Don’t worry about the terminal color; you can customize it as well.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss1-480.webp 480w,/assets/img/python_install_win_ss1-800.webp 800w,/assets/img/python_install_win_ss1-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/python_install_win_ss2-480.webp 480w,/assets/img/python_install_win_ss2-800.webp 800w,/assets/img/python_install_win_ss2-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/python_install_win_ss2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> </div> <h4 id="conclusion">Conclusion</h4> <p>You’ve successfully installed Python on Windows. Stay tuned for the next blog!</p>]]></content><author><name></name></author><category term="education"/><category term="python"/><category term="windows"/><category term="pip"/><category term="installation"/><summary type="html"><![CDATA[Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version.]]></summary></entry><entry><title type="html">a post with jupyter notebook</title><link href="https://anmmashud.github.io/blog/:2025/jupyter-notebook/" rel="alternate" type="text/html" title="a post with jupyter notebook"/><published>2023-07-04T12:57:00+00:00</published><updated>2023-07-04T12:57:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/jupyter-notebook</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/jupyter-notebook/"><![CDATA[<p>To include a jupyter notebook in a post, you can use the following code:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre></td><td class="rouge-code"><pre>{::nomarkdown}
 <span class="cp">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">jupyter_path</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb'</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">relative_url</span><span class="w"> </span><span class="cp">%}</span>
 <span class="cp">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="nv">notebook_exists</span><span class="w"> </span><span class="cp">%}{%</span><span class="w"> </span><span class="nt">file_exists</span><span class="w"> </span>assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb<span class="w"> </span><span class="cp">%}{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="cp">%}</span>
 <span class="cp">{%</span><span class="w"> </span><span class="nt">if</span><span class="w"> </span><span class="nv">notebook_exists</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s1">'true'</span><span class="w"> </span><span class="cp">%}</span>
@@ -39,7 +94,26 @@
   &lt;p&gt;Sorry, the notebook you are looking for does not exist.&lt;/p&gt;
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endif</span><span class="w"> </span><span class="cp">%}</span>
 {:/nomarkdown}
-</code></pre></div></div> <div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;"> <div class="jupyter-notebook-iframe-container"> <iframe src="/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe> </div> </div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{::nomarkdown}
+</pre></td></tr></tbody></table></code></pre></div></div> <div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;"> <div class="jupyter-notebook-iframe-container"> <iframe src="/assets/jupyter/eda-on-us-road-accident-2016-2023.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe> </div> </div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+</pre></td><td class="rouge-code"><pre>{::nomarkdown}
 
 
 
@@ -58,7 +132,26 @@
 
 
 {:/nomarkdown}
-</code></pre></div></div> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{::nomarkdown}
+</pre></td></tr></tbody></table></code></pre></div></div> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+</pre></td><td class="rouge-code"><pre>{::nomarkdown}
 
 
 
@@ -77,7 +170,26 @@
 
 
 {:/nomarkdown}
-</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{::</span><span class="n">nomarkdown</span><span class="p">}</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+</pre></td><td class="rouge-code"><pre><span class="p">{::</span><span class="n">nomarkdown</span><span class="p">}</span>
 
 
 
@@ -96,4 +208,1671 @@
 
 
 <span class="p">{:</span><span class="o">/</span><span class="n">nomarkdown</span><span class="p">}</span>
-</code></pre></div></div> ]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="jupyter"/><summary type="html"><![CDATA[an example of a blog post with jupyter notebook]]></summary></entry><entry><title type="html">Blog</title><link href="https://anmmashud.github.io/blog/:2025/blog/" rel="alternate" type="text/html" title="Blog"/><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/blog</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/blog/"><![CDATA[<blockquote> <p>This is a regular blockquote and it can be used as usual who are you</p> <ul> <li>one</li> <li>two</li> </ul> </blockquote> <blockquote class="block-tip"> <h5 id="tip">TIP</h5> <p>A tip can be used when you want to give advice related to a certain content.</p> </blockquote> <blockquote class="block-warning"> <h5 id="warning">WARNING</h5> <p>This is a warning, and thus should be used when you want to warn the user</p> </blockquote> <blockquote class="block-danger"> <h5 id="danger">DANGER</h5> <p>This is a danger zone, and thus should be used carefully</p> </blockquote>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="blockquotes"/><summary type="html"><![CDATA[an example of a blog post with custom blockquotes]]></summary></entry></feed>
+</pre></td></tr></tbody></table></code></pre></div></div> ]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="jupyter"/><summary type="html"><![CDATA[an example of a blog post with jupyter notebook]]></summary></entry><entry><title type="html">Blog</title><link href="https://anmmashud.github.io/blog/:2025/blog/" rel="alternate" type="text/html" title="Blog"/><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/blog</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/blog/"><![CDATA[<h2 id="mermaid">Mermaid</h2> <p>The diagram below was generated by the following code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">mermaid
+</span><span class="sb">sequenceDiagram
+    participant John
+    participant Alice
+    Alice-&gt;&gt;John: Hello John, how are you?
+    John--&gt;&gt;Alice: Great!</span>
+<span class="p">```</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <pre><code class="language-mermaid">sequenceDiagram
+    participant John
+    participant Alice
+    Alice-&gt;&gt;John: Hello John, how are you?
+    John--&gt;&gt;Alice: Great!
+</code></pre> <h4 id="hipster-list">Hipster list</h4> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> <h4 id="check-list">Check List</h4> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Brush Teeth</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Put on socks <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Put on left sock</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Put on right sock</li> </ul> </li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Go to school</li> </ul> <hr/> <h3 id="normal">normal</h3> <blockquote> <p>This is a regular blockquote and it can be used as usual</p> <p>This is a list</p> <ul> <li>one</li> <li>two</li> </ul> </blockquote> <h3 id="advenced">advenced</h3> <blockquote class="block-tip"> <h5 id="tip">TIP</h5> <p>A tip can be used when you want to give advice related to a certain content.</p> </blockquote> <blockquote class="block-warning"> <h5 id="warning">WARNING</h5> <p>This is a warning, and thus should be used when you want to warn the user</p> </blockquote> <blockquote class="block-danger"> <h5 id="danger">DANGER</h5> <p>This is a danger zone, and thus should be used carefully</p> </blockquote> <hr/> <h2 id="mermaid-1">Mermaid</h2> <p>The diagram below was generated by the following code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">mermaid
+</span><span class="sb">sequenceDiagram
+    participant John
+    participant Alice
+    Alice-&gt;&gt;John: Hello John, how are you?
+    John--&gt;&gt;Alice: Great!</span>
+<span class="p">```</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <pre><code class="language-mermaid">sequenceDiagram
+    participant John
+    participant Alice
+    Alice-&gt;&gt;John: Hello John, how are you?
+    John--&gt;&gt;Alice: Great!
+</code></pre> <hr/> <p>The keyword <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>linenos
+</pre></td></tr></tbody></table></code> triggers display of line numbers. Produces something like this:</p> <figure class="highlight"><pre><code class="language-c--" data-lang="c++"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+</pre></td><td class="code"><pre><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
+<span class="p">{</span>
+<span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
+
+    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
+    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
+    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
+
+    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
+
+    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
+        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+
+<span class="p">}</span>
+</pre></td></tr></tbody></table></code></pre></figure> <pre><code class="language-plotly">{
+  "data": [
+    {
+      "x": [1, 2, 3, 4],
+      "y": [10, 15, 13, 17],
+      "mode": "markers"
+    },
+    {
+      "x": [2, 3, 4, 5],
+      "y": [16, 5, 11, 9],
+      "mode": "lines"
+    },
+    {
+      "x": [1, 2, 3, 4],
+      "y": [12, 9, 15, 12],
+      "mode": "lines+markers"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Line and Scatter Plot"
+    }
+  }
+}
+</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="blockquotes"/><summary type="html"><![CDATA[an example of a blog post with custom blockquotes]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="https://anmmashud.github.io/blog/:2025/distill/" rel="alternate" type="text/html" title="a distill-style blog post"/><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>https://anmmashud.github.io/blog/:2025/distill</id><content type="html" xml:base="https://anmmashud.github.io/blog/:2025/distill/"><![CDATA[<h2 id="equations">Equations</h2> <p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>$$
+</pre></td></tr></tbody></table></code>, like <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>$$ E = mc^2 $$
+</pre></td></tr></tbody></table></code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p> <p>In fact, you can also use a single dollar sign <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>$
+</pre></td></tr></tbody></table></code> to create inline formulas, such as <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>$ E = mc^2 $
+</pre></td></tr></tbody></table></code>, which will render as $ E = mc^2 $. This approach provides the same effect during TeX-based compilation, but visually it appears slightly less bold compared to double-dollar signs <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>$$
+</pre></td></tr></tbody></table></code>, making it blend more naturally with surrounding text.</p> <p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>$$
+</pre></td></tr></tbody></table></code> and place it as a separate paragraph. Here is an example:</p> \[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\] <p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p> <hr/> <h2 id="citations">Citations</h2> <p>Citations are then used in the article body with the <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;d-cite&gt;
+</pre></td></tr></tbody></table></code> tag. The key attribute is a reference to the id provided in the bibliography. The key attribute can take multiple ids, separated by commas.</p> <p>The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover). If you have an appendix, a bibliography is automatically created and populated in it.</p> <p>Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover. However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.</p> <hr/> <h2 id="footnotes">Footnotes</h2> <p>Just wrap the text you would like to show up in a footnote in a <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;d-footnote&gt;
+</pre></td></tr></tbody></table></code> tag. The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote></p> <hr/> <h2 id="code-blocks">Code Blocks</h2> <p>Syntax highlighting is provided within <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;d-code&gt;
+</pre></td></tr></tbody></table></code> tags. An example of inline code snippets: <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;d-code language="html"&gt;let x = 10;&lt;/d-code&gt;
+</pre></td></tr></tbody></table></code>. For larger blocks of code, add a <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>block
+</pre></td></tr></tbody></table></code> attribute:</p> <d-code block="" language="javascript"> var x = 25; function(x) { return x * x; } </d-code> <p><strong>Note:</strong> <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;d-code&gt;
+</pre></td></tr></tbody></table></code> blocks do not look good in the dark mode. You can instead use the standard Jekyll syntax highlight with the <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>highlight
+</pre></td></tr></tbody></table></code> liquid tag.</p> <figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">x</span> <span class="o">=</span> <span class="mi">25</span><span class="p">;</span>
+<span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+<span class="k">return</span> <span class="nx">x</span> <span class="err">\</span><span class="o">*</span> <span class="nx">x</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure> <p>You can also write standard Markdown code blocks in triple ticks with a language tag, for instance:</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre><span class="k">def</span> <span class="nf">foo</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+  <span class="k">return</span> <span class="n">x</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <hr/> <h2 id="interactive-plots">Interactive Plots</h2> <p>You can add interative plots using plotly + iframes :framed_picture:</p> <div class="l-page"> <iframe src="/assets/plotly/demo.html" frameborder="0" scrolling="no" height="500px" width="100%" style="border: 1px dashed grey;"></iframe> </div> <p>The plot must be generated separately and saved into an HTML file. To generate the plot that you see above, you can use the following code snippet:</p> <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+<span class="kn">import</span> <span class="n">plotly.express</span> <span class="k">as</span> <span class="n">px</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span>
+<span class="sh">'</span><span class="s">https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv</span><span class="sh">'</span>
+<span class="p">)</span>
+<span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="p">.</span><span class="nf">density_mapbox</span><span class="p">(</span>
+<span class="n">df</span><span class="p">,</span>
+<span class="n">lat</span><span class="o">=</span><span class="sh">'</span><span class="s">Latitude</span><span class="sh">'</span><span class="p">,</span>
+<span class="n">lon</span><span class="o">=</span><span class="sh">'</span><span class="s">Longitude</span><span class="sh">'</span><span class="p">,</span>
+<span class="n">z</span><span class="o">=</span><span class="sh">'</span><span class="s">Magnitude</span><span class="sh">'</span><span class="p">,</span>
+<span class="n">radius</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
+<span class="n">center</span><span class="o">=</span><span class="nf">dict</span><span class="p">(</span><span class="n">lat</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="mi">180</span><span class="p">),</span>
+<span class="n">zoom</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+<span class="n">mapbox_style</span><span class="o">=</span><span class="sh">"</span><span class="s">stamen-terrain</span><span class="sh">"</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">fig</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
+<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="sh">'</span><span class="s">assets/plotly/demo.html</span><span class="sh">'</span><span class="p">)</span></code></pre></figure> <hr/> <h2 id="details-boxes">Details boxes</h2> <p>Details boxes are collapsible boxes which hide additional information from the user. They can be added with the <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>details
+</pre></td></tr></tbody></table></code> liquid tag:</p> <details><summary>Click here to know more</summary> <p>Additional details, where math \(2x - 1\) and <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>code
+</pre></td></tr></tbody></table></code> is rendered correctly.</p> </details> <hr/> <h2 id="mermaid">Mermaid</h2> <p>This theme supports creating diagrams directly in markdown using <a href="https://mermaid.js.org/">Mermaid</a>. Mermaid enables users to render flowcharts, sequence diagrams, class diagrams, Gantt charts, and more. Simply embed the diagram syntax within a mermaid code block.</p> <p>To create a Gantt chart, you can use the following syntax:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">mermaid
+</span><span class="sb">gantt
+    dateFormat  YYYY-MM-DD
+    title A Gantt Diagram
+
+    section Section
+    Task A           :a1, 2025-01-01, 30d
+    Task B           :after a1, 20d
+    Task C           :2025-01-10, 12d</span>
+<span class="p">```</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>And here’s how it will be rendered:</p> <pre><code class="language-mermaid">gantt
+    dateFormat  YYYY-MM-DD
+    title A Gantt Diagram
+
+    section Section
+    Task A           :a1, 2025-01-01, 30d
+    Task B           :after a1, 20d
+    Task C           :2025-01-10, 12d
+</code></pre> <p>Similarly, you can also use it to create beautiful class diagrams:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+</pre></td><td class="rouge-code"><pre>```mermaid
+classDiagram
+direction LR
+    class Animal {
+        +String species
+        +int age
+        +makeSound()
+    }
+    class Dog {
+        +String breed
+        +bark()
+    }
+    class Cat {
+        +String color
+        +meow()
+    }
+    class Bird {
+        +String wingSpan
+        +fly()
+    }
+    class Owner {
+        +String name
+        +int age
+        +adoptAnimal(Animal animal)
+    }
+
+    Animal &lt;|-- Dog
+    Animal &lt;|-- Cat
+    Animal &lt;|-- Bird
+    Owner "1" --&gt; "0..*" Animal
+
+    Dog : +fetch()
+    Cat : +purr()
+    Bird : +sing()
+```
+</pre></td></tr></tbody></table></code></pre></div></div> <p>It will be presented as:</p> <pre><code class="language-mermaid">classDiagram
+direction LR
+    class Animal {
+        +String species
+        +int age
+        +makeSound()
+    }
+    class Dog {
+        +String breed
+        +bark()
+    }
+    class Cat {
+        +String color
+        +meow()
+    }
+    class Bird {
+        +String wingSpan
+        +fly()
+    }
+    class Owner {
+        +String name
+        +int age
+        +adoptAnimal(Animal animal)
+    }
+
+    Animal &lt;|-- Dog
+    Animal &lt;|-- Cat
+    Animal &lt;|-- Bird
+    Owner "1" --&gt; "0..*" Animal
+
+    Dog : +fetch()
+    Cat : +purr()
+    Bird : +sing()
+</code></pre> <p>With Mermaid, you can easily add clear and dynamic diagrams to enhance your blog content.</p> <hr/> <h2 id="diff2html">Diff2Html</h2> <p>This theme also supports integrating <a href="https://github.com/rtfpessoa/diff2html">Diff2Html</a>, a tool that beautifully renders code differences (diffs) directly in markdown. Diff2Html is ideal for showcasing code changes, allowing you to clearly present additions, deletions, and modifications. It’s perfect for code reviews, documentation, and tutorials where step-by-step code changes need to be highlighted—you can even introduce changes across multiple files at once.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">diff2html
+</span><span class="sb">diff --git a/utils/mathUtils.js b/utils/mathUtils.js
+index 3b5f3d1..c7f9b2e 100644
+--- a/utils/mathUtils.js
++++ b/utils/mathUtils.js
+@@ -1,8 +1,12 @@
+-// Basic math utilities
++// Extended math utilities with additional functions
+
+-export function calculateArea(radius) {
+-    const PI = 3.14159;
++export function calculateCircleMetrics(radius) {
++    const PI = Math.PI;
+     const area = PI * radius ** 2;
++    const circumference = 2 * PI * radius;
++
++    if (!isValidRadius(radius)) throw new Error("Invalid radius");
++
+     return { area, circumference };
+ }
+
+-export function validateRadius(radius) {
++export function isValidRadius(radius) {
+     return typeof radius === 'number' &amp;&amp; radius &gt; 0;
+ }
+
+diff --git a/main.js b/main.js
+index 5f6a9c3..b7d4e8f 100644
+--- a/main.js
++++ b/main.js
+@@ -2,9 +2,12 @@
+ import { calculateCircleMetrics } from './utils/mathUtils';
+
+-function displayCircleMetrics(radius) {
+-    const { area } = calculateCircleMetrics(radius);
++function displayCircleMetrics(radius) {
++    const { area, circumference } = calculateCircleMetrics(radius);
+     console.log(`Area: ${area}`);
++    console.log(`Circumference: ${circumference}`);
+ }
+
+-displayCircleMetrics(5);
++try {
++    displayCircleMetrics(5);
++} catch (error) {
++    console.error("Error:", error.message);
++}</span>
+<span class="p">```</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Here’s how it will look when rendered with Diff2Html:</p> <pre><code class="language-diff2html">diff --git a/utils/mathUtils.js b/utils/mathUtils.js
+index 3b5f3d1..c7f9b2e 100644
+--- a/utils/mathUtils.js
++++ b/utils/mathUtils.js
+@@ -1,8 +1,12 @@
+-// Basic math utilities
++// Extended math utilities with additional functions
+
+-export function calculateArea(radius) {
+-    const PI = 3.14159;
++export function calculateCircleMetrics(radius) {
++    const PI = Math.PI;
+     const area = PI * radius ** 2;
++    const circumference = 2 * PI * radius;
++
++    if (!isValidRadius(radius)) throw new Error("Invalid radius");
++
+     return { area, circumference };
+ }
+
+-export function validateRadius(radius) {
++export function isValidRadius(radius) {
+     return typeof radius === 'number' &amp;&amp; radius &gt; 0;
+ }
+
+diff --git a/main.js b/main.js
+index 5f6a9c3..b7d4e8f 100644
+--- a/main.js
++++ b/main.js
+@@ -2,9 +2,12 @@
+ import { calculateCircleMetrics } from './utils/mathUtils';
+
+-function displayCircleMetrics(radius) {
+-    const { area } = calculateCircleMetrics(radius);
++function displayCircleMetrics(radius) {
++    const { area, circumference } = calculateCircleMetrics(radius);
+     console.log(`Area: ${area}`);
++    console.log(`Circumference: ${circumference}`);
+ }
+
+-displayCircleMetrics(5);
++try {
++    displayCircleMetrics(5);
++} catch (error) {
++    console.error("Error:", error.message);
++}
+</code></pre> <hr/> <h2 id="leaflet">Leaflet</h2> <p><a href="https://leafletjs.com/">Leaflet</a> is created by Ukrainian software engineer <a href="https://agafonkin.com/">Volodymyr Agafonkin</a>, allowing interactive maps to be embedded in webpages. With support for <a href="https://geojson.org/">GeoJSON data</a>, Leaflet allows you to highlight specific regions, making it easy to visualize geographical information in detail.</p> <p>You can use the following code to load map information on <a href="https://www.openstreetmap.org/">OpenStreetMap</a>:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+</pre></td><td class="rouge-code"><pre><span class="p">```</span><span class="nl">geojson
+</span><span class="sb">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crimea",
+        "popupContent": "Occupied Crimea"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9,
+              45.3
+            ],
+            [
+              36.5,
+              45.3
+            ],
+            [
+              36.5,
+              44.4
+            ],
+            [
+              33.9,
+              44.4
+            ],
+            [
+              33.9,
+              45.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donetsk",
+        "popupContent": "Occupied Donetsk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5,
+              48.5
+            ],
+            [
+              39.5,
+              48.5
+            ],
+            [
+              39.5,
+              47.5
+            ],
+            [
+              37.5,
+              47.5
+            ],
+            [
+              37.5,
+              48.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luhansk",
+        "popupContent": "Occupied Luhansk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.5,
+              49.5
+            ],
+            [
+              40.5,
+              49.5
+            ],
+            [
+              40.5,
+              48.5
+            ],
+            [
+              38.5,
+              48.5
+            ],
+            [
+              38.5,
+              49.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kherson",
+        "popupContent": "Occupied Kherson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.3,
+              47.3
+            ],
+            [
+              34.3,
+              47.3
+            ],
+            [
+              34.3,
+              46.3
+            ],
+            [
+              32.3,
+              46.3
+            ],
+            [
+              32.3,
+              47.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaporizhzhia",
+        "popupContent": "Occupied Zaporizhzhia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.3,
+              48
+            ],
+            [
+              36.3,
+              48
+            ],
+            [
+              36.3,
+              47
+            ],
+            [
+              34.3,
+              47
+            ],
+            [
+              34.3,
+              48
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}</span>
+<span class="p">```</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>The rendered map below highlights the regions of Ukraine that have been illegally occupied by Russia over the years, including Crimea and the four eastern regions:</p> <pre><code class="language-geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crimea",
+        "popupContent": "Occupied Crimea"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9,
+              45.3
+            ],
+            [
+              36.5,
+              45.3
+            ],
+            [
+              36.5,
+              44.4
+            ],
+            [
+              33.9,
+              44.4
+            ],
+            [
+              33.9,
+              45.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donetsk",
+        "popupContent": "Occupied Donetsk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5,
+              48.5
+            ],
+            [
+              39.5,
+              48.5
+            ],
+            [
+              39.5,
+              47.5
+            ],
+            [
+              37.5,
+              47.5
+            ],
+            [
+              37.5,
+              48.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luhansk",
+        "popupContent": "Occupied Luhansk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.5,
+              49.5
+            ],
+            [
+              40.5,
+              49.5
+            ],
+            [
+              40.5,
+              48.5
+            ],
+            [
+              38.5,
+              48.5
+            ],
+            [
+              38.5,
+              49.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kherson",
+        "popupContent": "Occupied Kherson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.3,
+              47.3
+            ],
+            [
+              34.3,
+              47.3
+            ],
+            [
+              34.3,
+              46.3
+            ],
+            [
+              32.3,
+              46.3
+            ],
+            [
+              32.3,
+              47.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaporizhzhia",
+        "popupContent": "Occupied Zaporizhzhia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.3,
+              48
+            ],
+            [
+              36.3,
+              48
+            ],
+            [
+              36.3,
+              47
+            ],
+            [
+              34.3,
+              47
+            ],
+            [
+              34.3,
+              48
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+</code></pre> <hr/> <h2 id="chartjs-echarts-and-vega-lite">Chartjs, Echarts and Vega-Lite</h2> <p><a href="https://www.chartjs.org/">Chart.js</a> is a versatile JavaScript library for creating responsive and interactive charts. Supporting multiple chart types like bar, line, pie, and radar, it’s an ideal tool for visualizing data directly in webpages.</p> <p>Here’s an example of a JSON-style configuration that creates a bar chart in Chart.js:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+</pre></td><td class="rouge-code"><pre>```chartjs
+{
+  "type": "bar",
+  "data": {
+    "labels": ["2017", "2018", "2019", "2020", "2021"],
+    "datasets": [
+      {
+        "label": "Population (millions)",
+        "data": [12, 15, 13, 14, 16],
+        "backgroundColor": "rgba(54, 162, 235, 0.6)",
+        "borderColor": "rgba(54, 162, 235, 1)",
+        "borderWidth": 1
+      }
+    ]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "beginAtZero": true
+      }
+    }
+  }
+}
+```
+</pre></td></tr></tbody></table></code></pre></div></div> <p>The rendered bar chart illustrates population data from 2017 to 2021:</p> <pre><code class="language-chartjs">{
+  "type": "bar",
+  "data": {
+    "labels": ["2017", "2018", "2019", "2020", "2021"],
+    "datasets": [
+      {
+        "label": "Population (millions)",
+        "data": [12, 15, 13, 14, 16],
+        "backgroundColor": "rgba(54, 162, 235, 0.6)",
+        "borderColor": "rgba(54, 162, 235, 1)",
+        "borderWidth": 1
+      }
+    ]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "beginAtZero": true
+      }
+    }
+  }
+}
+</code></pre> <hr/> <p><a href="https://echarts.apache.org/">ECharts</a> is a powerful visualization library from <a href="https://www.apache.org/">Apache</a> that supports a wide range of interactive charts, including more advanced types such as scatter plots, heatmaps, and geographic maps.</p> <p>The following JSON configuration creates a visually enhanced line chart that displays monthly sales data for two products.</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+</pre></td><td class="rouge-code"><pre>```echarts
+{
+  "title": {
+    "text": "Monthly Sales Comparison",
+    "left": "center"
+  },
+  "tooltip": {
+    "trigger": "axis",
+    "backgroundColor": "rgba(50, 50, 50, 0.7)",
+    "borderColor": "#777",
+    "borderWidth": 1,
+    "textStyle": {
+      "color": "#fff"
+    }
+  },
+  "legend": {
+    "data": ["Product A", "Product B"],
+    "top": "10%"
+  },
+  "xAxis": {
+    "type": "category",
+    "data": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "axisLine": {
+      "lineStyle": {
+        "color": "#888"
+      }
+    }
+  },
+  "yAxis": {
+    "type": "value",
+    "axisLine": {
+      "lineStyle": {
+        "color": "#888"
+      }
+    },
+    "splitLine": {
+      "lineStyle": {
+        "type": "dashed"
+      }
+    }
+  },
+  "series": [
+    {
+      "name": "Product A",
+      "type": "line",
+      "smooth": true,
+      "data": [820, 932, 901, 934, 1290, 1330, 1320, 1400, 1450, 1500, 1600, 1650],
+      "itemStyle": {
+        "color": "#5470C6"
+      },
+      "lineStyle": {
+        "width": 3
+      },
+      "areaStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0,
+          "y": 0,
+          "x2": 0,
+          "y2": 1,
+          "colorStops": [
+            { "offset": 0, "color": "rgba(84, 112, 198, 0.5)" },
+            { "offset": 1, "color": "rgba(84, 112, 198, 0)" }
+          ]
+        }
+      },
+      "emphasis": {
+        "focus": "series"
+      }
+    },
+    {
+      "name": "Product B",
+      "type": "line",
+      "smooth": true,
+      "data": [620, 732, 701, 734, 1090, 1130, 1120, 1200, 1250, 1300, 1400, 1450],
+      "itemStyle": {
+        "color": "#91CC75"
+      },
+      "lineStyle": {
+        "width": 3
+      },
+      "areaStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0,
+          "y": 0,
+          "x2": 0,
+          "y2": 1,
+          "colorStops": [
+            { "offset": 0, "color": "rgba(145, 204, 117, 0.5)" },
+            { "offset": 1, "color": "rgba(145, 204, 117, 0)" }
+          ]
+        }
+      },
+      "emphasis": {
+        "focus": "series"
+      }
+    }
+  ]
+}
+```
+</pre></td></tr></tbody></table></code></pre></div></div> <p>The rendered output is shown below, and you can also interact with it using your mouse:</p> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Monthly Sales Comparison",
+    "left": "center"
+  },
+  "tooltip": {
+    "trigger": "axis",
+    "backgroundColor": "rgba(50, 50, 50, 0.7)",
+    "borderColor": "#777",
+    "borderWidth": 1,
+    "textStyle": {
+      "color": "#fff"
+    }
+  },
+  "legend": {
+    "data": ["Product A", "Product B"],
+    "top": "10%"
+  },
+  "xAxis": {
+    "type": "category",
+    "data": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "axisLine": {
+      "lineStyle": {
+        "color": "#888"
+      }
+    }
+  },
+  "yAxis": {
+    "type": "value",
+    "axisLine": {
+      "lineStyle": {
+        "color": "#888"
+      }
+    },
+    "splitLine": {
+      "lineStyle": {
+        "type": "dashed"
+      }
+    }
+  },
+  "series": [
+    {
+      "name": "Product A",
+      "type": "line",
+      "smooth": true,
+      "data": [820, 932, 901, 934, 1290, 1330, 1320, 1400, 1450, 1500, 1600, 1650],
+      "itemStyle": {
+        "color": "#5470C6"
+      },
+      "lineStyle": {
+        "width": 3
+      },
+      "areaStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0,
+          "y": 0,
+          "x2": 0,
+          "y2": 1,
+          "colorStops": [
+            { "offset": 0, "color": "rgba(84, 112, 198, 0.5)" },
+            { "offset": 1, "color": "rgba(84, 112, 198, 0)" }
+          ]
+        }
+      },
+      "emphasis": {
+        "focus": "series"
+      }
+    },
+    {
+      "name": "Product B",
+      "type": "line",
+      "smooth": true,
+      "data": [620, 732, 701, 734, 1090, 1130, 1120, 1200, 1250, 1300, 1400, 1450],
+      "itemStyle": {
+        "color": "#91CC75"
+      },
+      "lineStyle": {
+        "width": 3
+      },
+      "areaStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0,
+          "y": 0,
+          "x2": 0,
+          "y2": 1,
+          "colorStops": [
+            { "offset": 0, "color": "rgba(145, 204, 117, 0.5)" },
+            { "offset": 1, "color": "rgba(145, 204, 117, 0)" }
+          ]
+        }
+      },
+      "emphasis": {
+        "focus": "series"
+      }
+    }
+  ]
+}
+</code></pre> <hr/> <p><a href="https://vega.github.io/vega-lite/">Vega-Lite</a> is a declarative visualization grammar that allows users to create, share, and customize a wide range of interactive data visualizations. The following JSON configuration generates a straightforward bar chart:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+</pre></td><td class="rouge-code"><pre>```vega_lite
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 400,
+  "height": 200,
+  "padding": 5,
+
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"category": "A", "value": 28},
+        {"category": "B", "value": 55},
+        {"category": "C", "value": 43},
+        {"category": "D", "value": 91},
+        {"category": "E", "value": 81},
+        {"category": "F", "value": 53},
+        {"category": "G", "value": 19},
+        {"category": "H", "value": 87}
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "xscale",
+      "type": "band",
+      "domain": {"data": "table", "field": "category"},
+      "range": "width",
+      "padding": 0.1
+    },
+    {
+      "name": "yscale",
+      "type": "linear",
+      "domain": {"data": "table", "field": "value"},
+      "nice": true,
+      "range": "height"
+    }
+  ],
+
+  "axes": [
+    {"orient": "bottom", "scale": "xscale"},
+    {"orient": "left", "scale": "yscale"}
+  ],
+
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "category"},
+          "width": {"scale": "xscale", "band": 0.8},
+          "y": {"scale": "yscale", "field": "value"},
+          "y2": {"scale": "yscale", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fill": {"value": "orange"}
+        }
+      }
+    }
+  ]
+}
+```
+</pre></td></tr></tbody></table></code></pre></div></div> <p>The rendered output shows a clean and simple bar chart with a hover effect：</p> <pre><code class="language-vega_lite">{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 400,
+  "height": 200,
+  "padding": 5,
+
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"category": "A", "value": 28},
+        {"category": "B", "value": 55},
+        {"category": "C", "value": 43},
+        {"category": "D", "value": 91},
+        {"category": "E", "value": 81},
+        {"category": "F", "value": 53},
+        {"category": "G", "value": 19},
+        {"category": "H", "value": 87}
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "xscale",
+      "type": "band",
+      "domain": {"data": "table", "field": "category"},
+      "range": "width",
+      "padding": 0.1
+    },
+    {
+      "name": "yscale",
+      "type": "linear",
+      "domain": {"data": "table", "field": "value"},
+      "nice": true,
+      "range": "height"
+    }
+  ],
+
+  "axes": [
+    {"orient": "bottom", "scale": "xscale"},
+    {"orient": "left", "scale": "yscale"}
+  ],
+
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "category"},
+          "width": {"scale": "xscale", "band": 0.8},
+          "y": {"scale": "yscale", "field": "value"},
+          "y2": {"scale": "yscale", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fill": {"value": "orange"}
+        }
+      }
+    }
+  ]
+}
+</code></pre> <hr/> <h2 id="tikz">TikZ</h2> <p><a href="https://tikz.net/">TikZ</a> is a powerful LaTeX-based drawing tool powered by <a href="https://tikzjax.com/">TikZJax</a>. You can easily port TikZ drawings from papers, posters, and notes. For example, we can use the following code to illustrate Euler’s formula $ e^{i \theta} = \cos \theta + i \sin \theta $:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+</pre></td><td class="rouge-code"><pre><span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/tikz"</span><span class="nt">&gt;</span>
+<span class="se">\b</span>egin{tikzpicture}
+    <span class="se">\f</span>illdraw[fill=cyan!10, draw=blue, thick] (0,0) circle (2cm);<span class="sb">
+
+    \draw[-&gt;, thick] (-2.5,0) -- (2.5,0) node[right] {Re};
+    \draw[-&gt;, thick] (0,-2.5) -- (0,2.5) node[above] {Im};
+
+    \draw[-&gt;, thick, color=purple] (0,0) -- (1.5,1.5);
+    \node[color=purple] at (1.1, 1.7) {$e^{i\theta}$};
+
+    \draw[thick] (0.7,0) arc (0:45:0.7);
+    \node at (0.9, 0.3) {$\theta$};
+
+    \draw[dashed, color=gray] (1.5,1.5) -- (1.5,0) node[below, black] {$\cos \theta$};
+    \draw[dashed, color=gray] (1.5,1.5) -- (0,1.5) node[left, black] {$\sin \theta$};
+    \node at (2.2, 0) [below] {1};
+    \node at (0, 2.2) [left] {$i$};
+    \node at (1.5,1.5) [above right, color=blue] {$(\cos \theta \, \sin \theta)$};
+</span><span class="se">\e</span>nd{tikzpicture}
+<span class="nt">&lt;/script&gt;</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <p>The rendered output is shown below, displayed as a vector graphic：</p> <script type="text/tikz">
+\begin{tikzpicture}
+    \filldraw[fill=cyan!10, draw=blue, thick] (0,0) circle (2cm);
+
+    \draw[->, thick] (-2.5,0) -- (2.5,0) node[right] {Re};
+    \draw[->, thick] (0,-2.5) -- (0,2.5) node[above] {Im};
+
+    \draw[->, thick, color=purple] (0,0) -- (1.5,1.5);
+    \node[color=purple] at (1.1, 1.7) {$e^{i\theta}$};
+
+    \draw[thick] (0.7,0) arc (0:45:0.7);
+    \node at (0.9, 0.3) {$\theta$};
+
+    \draw[dashed, color=gray] (1.5,1.5) -- (1.5,0) node[below, black] {$\cos \theta$};
+    \draw[dashed, color=gray] (1.5,1.5) -- (0,1.5) node[left, black] {$\sin \theta$};
+    \node at (2.2, 0) [below] {1};
+    \node at (0, 2.2) [left] {$i$};
+    \node at (1.5,1.5) [above right, color=blue] {$(\cos \theta \, \sin \theta)$};
+\end{tikzpicture}
+</script> <hr/> <h2 id="typograms">Typograms</h2> <p><a href="https://google.github.io/typograms/">Typograms</a> are a way of combining text and graphics to convey information in a clear and visually engaging manner. Typograms are particularly effective for illustrating simple diagrams, charts, and concept visuals where text and graphics are closely integrated. The following example demonstrates a simple Typogram:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</pre></td><td class="rouge-code"><pre>```typograms
+             ___________________
+            /                  /|
+           /__________________/ |
+          |                  |  |
+          |     Distill      |  |
+          |                  |  |
+          |                  | /
+          |__________________|/
+```
+</pre></td></tr></tbody></table></code></pre></div></div> <p>The rendered output is shown below：</p> <pre><code class="language-typograms">             ___________________
+            /                  /|
+           /__________________/ |
+          |                  |  |
+          |     Distill      |  |
+          |                  |  |
+          |                  | /
+          |__________________|/
+</code></pre> <hr/> <h2 id="layouts">Layouts</h2> <p>The main text column is referred to as the body. It is the assumed layout of any direct descendants of the <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>d-article
+</pre></td></tr></tbody></table></code> element.</p> <div class="fake-img l-body"> <p>.l-body</p> </div> <p>For images you want to display a little larger, try <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>.l-page
+</pre></td></tr></tbody></table></code>:</p> <div class="fake-img l-page"> <p>.l-page</p> </div> <p>All of these have an outset variant if you want to poke out from the body text a little bit. For instance:</p> <div class="fake-img l-body-outset"> <p>.l-body-outset</p> </div> <div class="fake-img l-page-outset"> <p>.l-page-outset</p> </div> <p>Occasionally you’ll want to use the full browser width. For this, use <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>.l-screen
+</pre></td></tr></tbody></table></code>. You can also inset the element a little from the edge of the browser by using the inset variant.</p> <div class="fake-img l-screen"> <p>.l-screen</p> </div> <div class="fake-img l-screen-inset"> <p>.l-screen-inset</p> </div> <p>The final layout is for marginalia, asides, and footnotes. It does not interrupt the normal flow of <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>.l-body
+</pre></td></tr></tbody></table></code> sized text except on mobile screen sizes.</p> <div class="fake-img l-gutter"> <p>.l-gutter</p> </div> <hr/> <h2 id="sidenotes">Sidenotes</h2> <p>Distill supports sidenotes, which are like footnotes but placed in the margin of the page. They are useful for providing additional context or references without interrupting the flow of the main text.</p> <p>There are two main ways to create a sidenote:</p> <p><strong>Using the <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>&lt;aside&gt;
+</pre></td></tr></tbody></table></code> tag:</strong></p> <p>The following code creates a sidenote with <strong><em>distill’s styling</em></strong> in the margin:</p> <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nt">&lt;aside&gt;&lt;p&gt;</span>This is a sidenote using aside tag.<span class="nt">&lt;/p&gt;&lt;/aside&gt;</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <aside><p> This is a sidenote using `&lt;aside&gt;` tag</p> </aside> <p>We can also add images to sidenotes (click on the image to zoom in for a larger version):</p> <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre><span class="nt">&lt;aside&gt;</span>
+  {% include figure.liquid loading="eager" path="assets/img/rhino.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <span class="nt">&lt;p&gt;</span>
+    F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” Science, Medicine, and History: Essays on the Evolution of
+    Scientific Thought and Medical Practice (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s Visual Explanations.
+  <span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;/aside&gt;</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <aside> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/rhino-480.webp 480w,/assets/img/rhino-800.webp 800w,/assets/img/rhino-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/rhino.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <p>F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s Visual Explanations.</p> </aside> <p>Sidenotes can also contain equations and links:</p> <p>In physics, mass–energy equivalence is the relationship between mass and energy in a system’s rest frame. The two differ only by a multiplicative constant and the units of measurement.</p> <aside> <p>This principle is defined by Einstein's famous equation: $E = mc^2$ <a href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence" target="_blank">(Source: Wikipedia)</a></p> </aside> <p><strong>Using the <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>l-gutter
+</pre></td></tr></tbody></table></code> class:</strong></p> <p>The following code creates a sidenote with <strong><em>al-folio’s styling</em></strong> in the margin:</p> <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"l-gutter"</span><span class="nt">&gt;&lt;p&gt;</span>This is a sidenote using l-gutter class.<span class="nt">&lt;/p&gt;&lt;/div&gt;</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <div class="l-gutter"> <p> This is a sidenote using `l-gutter` class. </p> </div> <hr/> <h2 id="other-typography">Other Typography?</h2> <p>Emphasis, aka italics, with <em>asterisks</em> (<code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>*asterisks*
+</pre></td></tr></tbody></table></code>) or <em>underscores</em> (<code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>_underscores_
+</pre></td></tr></tbody></table></code>).</p> <p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p> <p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p> <p>Strikethrough uses two tildes. <del>Scratch this.</del></p> <ol> <li>First ordered list item</li> <li>Another item ⋅⋅* Unordered sub-list.</li> <li>Actual numbers don’t matter, just that it’s a number ⋅⋅1. Ordered sub-list</li> <li>And another item.</li> </ol> <p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we’ll use three here to also align the raw Markdown).</p> <p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p> <ul> <li> <p>Unordered list can use asterisks</p> </li> <li> <p>Or minuses</p> </li> <li> <p>Or pluses</p> </li> </ul> <p><a href="https://www.google.com">I’m an inline-style link</a></p> <p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p> <p><a href="https://www.mozilla.org">I’m a reference-style link</a></p> <p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p> <p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p> <p>URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com or <a href="http://www.example.com">http://www.example.com</a> and sometimes example.com (but not on Github, for example).</p> <p>Some text to show that the reference links can follow later.</p> <p>Here’s our logo (hover to see the title text):</p> <p>Inline-style: <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1"/></p> <p>Reference-style: <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2"/></p> <p>Inline <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>code
+</pre></td></tr></tbody></table></code> has <code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>back-ticks around
+</pre></td></tr></tbody></table></code> it.</p> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
+<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre><span class="n">s</span> <span class="o">=</span> <span class="sh">"</span><span class="s">Python syntax highlighting</span><span class="sh">"</span>
+<span class="k">print</span> <span class="n">s</span>
+</pre></td></tr></tbody></table></code></pre></div></div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>No language indicated, so no syntax highlighting.
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+</pre></td></tr></tbody></table></code></pre></div></div> <p>Colons can be used to align columns.</p> <table> <thead> <tr> <th>Tables</th> <th style="text-align: center">Are</th> <th style="text-align: right">Cool</th> </tr> </thead> <tbody> <tr> <td>col 3 is</td> <td style="text-align: center">right-aligned</td> <td style="text-align: right">$1600</td> </tr> <tr> <td>col 2 is</td> <td style="text-align: center">centered</td> <td style="text-align: right">$12</td> </tr> <tr> <td>zebra stripes</td> <td style="text-align: center">are neat</td> <td style="text-align: right">$1</td> </tr> </tbody> </table> <p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don’t need to make the raw Markdown line up prettily. You can also use inline Markdown.</p> <table> <thead> <tr> <th>Markdown</th> <th>Less</th> <th>Pretty</th> </tr> </thead> <tbody> <tr> <td><em>Still</em></td> <td><code class="language-plaintext highlighter-rouge"><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>renders
+</pre></td></tr></tbody></table></code></td> <td><strong>nicely</strong></td> </tr> <tr> <td>1</td> <td>2</td> <td>3</td> </tr> </tbody> </table> <blockquote> <p>Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.</p> </blockquote> <p>Quote break.</p> <blockquote> <p>This is a very long line that will still be quoted properly when it wraps. Oh boy let’s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p> </blockquote> <p>Here’s a line for us to start with.</p> <p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p> <p>This line is also a separate paragraph, but… This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>]]></content><author><name>Albert Einstein</name></author><category term="distill"/><category term="formatting"/><summary type="html"><![CDATA[an example of a distill-style blog post and main elements]]></summary></entry></feed>
