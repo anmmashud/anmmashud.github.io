@@ -1,7 +1,7 @@
 Source: [al-folio](https://github.com/alshedivat/al-folio.git)
 
 # al-folio
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b01b0de-81be-410c-97fb-347b38dc47bb/deploy-status)](https://app.netlify.com/projects/anmmashud/deploys)
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
