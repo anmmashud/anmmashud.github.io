@@ -5,7 +5,7 @@ sudo apt update
 sudo apt install ruby-full build-essential zlib1g-dev
 ```
 
-if you see this king of error when used `bundle install`
+if you see this kind of error when used `bundle install`
 
 ```
 (base) mashud@Mashud-Ubuntu:~/Documents/GitHub/anmmashud.github.io$ bundle install Fetching https://github.com/RobertoJBeltran/jekyll-terser.git There was an error while trying to write to /var/lib/gems/3.2.0/cache/bundler/git. It is likely that you need to grant write permissions for that path.

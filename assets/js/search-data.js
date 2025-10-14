@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-resume",
-          title: "Resume",
-          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resume/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-resume",
+          title: "Resume",
+          description: "Explore my skills, experience, and achievements in data science, machine learning, and software development. Download the full PDF to learn more.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resume/";
           },
         },{id: "nav-projects",
           title: "Projects",
@@ -30,47 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-contacts",
-          title: "Contacts",
-          description: "Get in touch for collaborations, inquiries, or a chat about data science.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/contacts/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-python",
+              title: "Python",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/python/";
               },
-            },{id: "dropdown-aventis-tech",
-              title: "Aventis-Tech",
+            },{id: "dropdown-statistics",
+              title: "Statistics",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/aventis-tech.md/";
+                window.location.href = "/statistics/";
               },
-            },{id: "dropdown-forms",
-              title: "Forms",
+            },{id: "dropdown-maths",
+              title: "Maths",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/forms/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/maths/";
               },
             },{id: "dropdown-github",
               title: "GitHub",
@@ -79,12 +58,19 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/github/";
               },
-            },{id: "dropdown-people",
-              title: "People",
+            },{id: "dropdown-contacts",
+              title: "Contacts",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/contacts/";
+              },
+            },{id: "dropdown-privacy-policy",
+              title: "Privacy Policy",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/privacy/";
               },
             },{id: "post-a-post-with-plotly-js",
         
@@ -518,6 +504,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eda-on-us-road-accident-2016-2023/";
+            },},{id: "python-test-1",
+          title: 'test 1',
+          description: "",
+          section: "Python",handler: () => {
+              window.location.href = "/python/eda-on-us-road-accident-2016-2023/";
             },},{
         id: 'social-email',
         title: 'email',
