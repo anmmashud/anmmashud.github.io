@@ -5,7 +5,7 @@ permalink: /statistics/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 5
-display_categories: [Python, Statistics, Maths]
+display_categories: [Regression, Classification, Probability]
 horizontal: false
 ---
 

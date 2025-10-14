@@ -6,11 +6,9 @@ nav_order: 8
 dropdown: true
 children:
 
-   - title: Blog
-     permalink: /blog/
    - title: GitHub
      permalink: /github/
-   - title: divider
+#   - title: divider
    
    - title: Contacts
      permalink: /contacts/

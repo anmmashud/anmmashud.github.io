@@ -9,7 +9,7 @@ children:
    - title: Python
      permalink: /python/
    - title: Statistics
-     permalink: /statsics/
+     permalink: /statistics/
    - title: Maths
      permalink: /maths/
 ---
