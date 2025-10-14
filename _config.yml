@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: Hello! # blog_name will be displayed in your blog page
 blog_description: Welcome to my simple blog site
 permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
@@ -152,7 +152,10 @@ collections:
     output: true
   projects:
     output: true
-
+  python:
+    output: true
+  statistics:
+    output: true
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
