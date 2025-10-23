@@ -149,6 +149,17 @@ ninja.data = [{
             window.location.href = "/blog/2010/blog/";
           
         },
+      },{id: "post-sidenote-test",
+        
+          title: "sidenote test",
+        
+        description: "an example of a distill-style blog post and main elements",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2010/sidenote-test/";
+          
+        },
       },{id: "post-a-distill-style-blog-post",
         
           title: "a distill-style blog post",
