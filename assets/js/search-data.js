@@ -87,11 +87,22 @@ ninja.data = [{
         
           title: "10 Basic Python Problems",
         
-        description: "A sample blog post",
+        description: "Solving 10 beginner level python problems.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/10-basic-python-problems/";
+          
+        },
+      },{id: "post-10-test",
+        
+          title: "10 test",
+        
+        description: "Solving 10 beginner level python problems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/10-test-2/";
           
         },
       },{id: "post-install-jupyter-on-windows",
