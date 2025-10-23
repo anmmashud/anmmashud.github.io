@@ -116,17 +116,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/python-installation-on-windows/";
           
         },
-      },{id: "post-image-components",
-        
-          title: "Image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/image-components/";
-          
-        },
       },{id: "post-a-post-with-jupyter-notebook",
         
           title: "a post with jupyter notebook",
@@ -153,18 +142,18 @@ ninja.data = [{
         
           title: ".",
         
-        description: "an example of a blog post with custom blockquotes",
+        description: "A sample blog post",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2010/blog/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-",
         
-          title: "a distill-style blog post",
+          title: "..",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "An example of a distill-style blog post and main elements",
         section: "Posts",
         handler: () => {
           
