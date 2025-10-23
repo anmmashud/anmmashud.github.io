@@ -87,7 +87,7 @@ ninja.data = [{
         
           title: "10 Basic Python Problems",
         
-        description: "",
+        description: "Solving 10 basic problems using python",
         section: "Posts",
         handler: () => {
           
