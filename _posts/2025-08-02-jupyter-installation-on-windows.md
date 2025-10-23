@@ -5,7 +5,7 @@ date: 2025-08-1 13:09:00
 description: Description for jupyter installation is coming soon...!
 categories: education
 tags: jupyter windows installation
-featured: true
+featured: false
 ---
 # Installing Jupyter Notebook or Anaconda on Windows
 

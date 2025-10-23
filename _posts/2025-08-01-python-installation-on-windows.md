@@ -5,7 +5,7 @@ date: 2025-08-1 10:09:00
 description: Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version.
 categories: education
 tags: python windows pip installation
-featured: true
+featured: false
 ---
 Python is a versatile programming language widely used in data analysis, web development, and more. This guide explains how to install the latest version of Python on Windows.
 

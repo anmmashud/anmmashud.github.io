@@ -5,7 +5,7 @@ permalink: /python/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 6
-display_categories: [Basic, Pandas, NumPy]
+display_categories: [Practice Problem, Pandas]
 horizontal: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: About
 permalink: /
 subtitle: <a href='https://anmmashud.github.io/resume/'>More info.</a> # Affiliations, Address. Contacts. Motto. Etc.
 
