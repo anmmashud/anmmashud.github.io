@@ -149,17 +149,6 @@ ninja.data = [{
             window.location.href = "/blog/2000/distill/";
           
         },
-      },{id: "post-toc",
-        
-          title: "toc",
-        
-        description: "an example of a distill-style blog post",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2000/toc/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
