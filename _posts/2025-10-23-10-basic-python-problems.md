@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: 10 Basic Python Problems
 date: 2025-10-19 10:09:00
 description: Solving 10 beginner level python problems.
@@ -10,16 +10,19 @@ tags: python practice problems loops
 tabs: true
 related_posts: true
 toc:
-  - name: Problem 1 - Find the Largest of Two Numbers
-  - name: Problem 2 - Print Numbers from 1 to N
-  - name: Problem 3 - Check if a Number is Positive or Negative
-  - name: Problem 4 - Calculate the Sum of Digits
-  - name: Problem 5 - Find Factorial of a Number
-  - name: Problem 6 - Count Occurrences of a Digit
-  - name: Problem 7 - Find the GCD of Two Numbers
-  - name: Problem 8 - Reverse a String
-  - name: Problem 9 - Check Armstrong Number
-  - name: Problem 10 - Generate a Pattern
+toc:
+  beginning: true
+#  sidebar: left
+#   - name: Problem 1 - Find the Largest of Two Numbers
+#   - name: Problem 2 - Print Numbers from 1 to N
+#   - name: Problem 3 - Check if a Number is Positive or Negative
+#   - name: Problem 4 - Calculate the Sum of Digits
+#   - name: Problem 5 - Find Factorial of a Number
+#   - name: Problem 6 - Count Occurrences of a Digit
+#   - name: Problem 7 - Find the GCD of Two Numbers
+#   - name: Problem 8 - Reverse a String
+#   - name: Problem 9 - Check Armstrong Number
+#   - name: Problem 10 - Generate a Pattern
 
 
 ---
