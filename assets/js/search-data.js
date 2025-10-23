@@ -72,20 +72,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/privacy/";
               },
-            },{id: "post-simple-linear-regression-math-formula-with-python",
+            },{id: "post-simple-linear-regression",
         
-          title: "Simple Linear Regression - Math Formula with Python",
+          title: "Simple Linear Regression",
         
-        description: "",
+        description: "Mathmetical Solution with Python",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/10-linear-regression-hardcode/";
+            window.location.href = "/blog/2025/linear-regression-hardcode/";
           
         },
-      },{id: "post-10-basic-python-problem-with-solution",
+      },{id: "post-10-basic-python-problems",
         
-          title: "10 Basic Python Problem with Solution",
+          title: "10 Basic Python Problems",
         
         description: "",
         section: "Posts",
