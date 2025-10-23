@@ -138,17 +138,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
-      },{id: "post-blog",
-        
-          title: "Blog",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/blog/";
-          
-        },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
         
           title: "a post with table of contents on a sidebar",
@@ -160,15 +149,26 @@ ninja.data = [{
             window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
-      },{id: "post-a-post-with-table-of-contents",
+      },{id: "post-python",
         
-          title: "a post with table of contents",
+          title: 'Python <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "an example of a blog post with table of contents",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/table-of-contents/";
+            window.open("https://anmmashud.xyz/python/", "_blank");
+          
+        },
+      },{id: "post-",
+        
+          title: ".",
+        
+        description: "an example of a blog post with custom blockquotes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2010/blog/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -179,18 +179,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/distill/";
-          
-        },
-      },{id: "post-python",
-        
-          title: 'Python <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://anmmashud.xyz/python/", "_blank");
+            window.location.href = "/blog/2000/distill/";
           
         },
       },{id: "books-the-godfather",
