@@ -6,7 +6,15 @@ description: Mathmetical Solution with Python
 categories: python, math
 tags: python windows pip installation
 featured: true
-thumbnail: assets/img/9.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/1/13/Scatterplot_with_simple_line_regression.png
+toc:
+  - name: Sidenotes
+  - name: Test
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: Citations
 ---
 
 ## Sidenotes
@@ -17,6 +25,8 @@ They are useful for providing additional context or references without interrupt
 There are two main ways to create a sidenote:
 
 **Using the `<aside>` tag:**
+
+## Test
 
 The following code creates a sidenote with **_distill's styling_** in the margin:
 
