@@ -87,7 +87,7 @@ ninja.data = [{
         
           title: "10 Basic Python Problems",
         
-        description: "Solving 10 basic problems using python",
+        description: "A sample blog post",
         section: "Posts",
         handler: () => {
           
@@ -116,17 +116,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/python-installation-on-windows/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
       },{id: "post-python",
         
           title: 'Python <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -149,15 +138,26 @@ ninja.data = [{
             window.location.href = "/blog/2010/blog/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-",
         
-          title: "a distill-style blog post",
+          title: "..",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "an example of a distill-style blog post",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2000/distill/";
+          
+        },
+      },{id: "post-toc",
+        
+          title: "toc",
+        
+        description: "an example of a distill-style blog post",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/toc/";
           
         },
       },{id: "books-the-godfather",
