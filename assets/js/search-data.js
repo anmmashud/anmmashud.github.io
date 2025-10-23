@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "Home",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -482,11 +482,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eda-on-us-road-accident-2016-2023/";
-            },},{id: "python-test-1",
-          title: 'test 1',
+            },},{id: "python-10-basic-python-problems",
+          title: '10 Basic Python Problems',
           description: "",
           section: "Python",handler: () => {
-              window.location.href = "/python/eda-on-us-road-accident-2016-2023/";
+              window.location.href = "/python/2025-10-23-10-basic-python-problems/";
             },},{
         id: 'social-email',
         title: 'email',
