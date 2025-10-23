@@ -72,15 +72,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/privacy/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-simple-linear-regression-math-formula-with-python",
         
-          title: "a post with plotly.js",
+          title: "Simple Linear Regression - Math Formula with Python",
         
-        description: "this is what included plotly.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/10-linear-regression-hardcode/";
+          
+        },
+      },{id: "post-10-basic-python-problem-with-solution",
+        
+          title: "10 Basic Python Problem with Solution",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/10-basic-python-problems/";
           
         },
       },{id: "post-install-jupyter-on-windows",
@@ -103,6 +114,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/python-installation-on-windows/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -149,17 +171,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/post-citation/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
       },{id: "post-a-post-with-code-diff",
         
           title: "a post with code diff",
@@ -182,28 +193,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/advanced-images/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
       },{id: "post-a-post-with-echarts",
         
           title: "a post with echarts",
@@ -224,28 +213,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -314,17 +281,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
       },{id: "post-a-post-with-videos",
         
           title: "a post with videos",
@@ -371,13 +327,13 @@ ninja.data = [{
         },
       },{id: "post-a-post-with-redirect",
         
-          title: "a post with redirect",
+          title: 'a post with redirect <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "you can also redirect to assets like pdf",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.open("https://anmmashud.xyz/python/", "_blank");
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -411,6 +367,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/twitter/";
+          
+        },
+      },{id: "post-python",
+        
+          title: 'Python <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://anmmashud.xyz/python/", "_blank");
+          
+        },
+      },{id: "post-maths",
+        
+          title: 'Maths <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://anmmashud.xyz/maths/", "_blank");
           
         },
       },{id: "post-a-post-with-disqus-comments",
