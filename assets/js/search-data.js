@@ -149,11 +149,11 @@ ninja.data = [{
             window.location.href = "/blog/2010/blog/";
           
         },
-      },{id: "post-",
+      },{id: "post-a-distill-style-blog-post",
         
-          title: "..",
+          title: "a distill-style blog post",
         
-        description: "An example of a distill-style blog post and main elements",
+        description: "an example of a distill-style blog post and main elements",
         section: "Posts",
         handler: () => {
           
