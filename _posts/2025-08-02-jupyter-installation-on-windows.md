@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install Jupyter on Windows
-date: 2025-01-1 13:09:00
+date: 2025-08-1 13:09:00
 description: Description for jupyter installation is coming soon...!
 categories: education
 tags: jupyter windows installation

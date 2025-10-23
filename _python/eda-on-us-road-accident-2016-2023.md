@@ -9,6 +9,7 @@ category: Basic
 related_publications: false
 toc:
   beginning: true
+redirect: https://anmmashud.xyz/blog/2025/jupyter-installation-on-windows/
 ---
 
 Read the Documentation for this project. **(Exploratory Data Analysis on US Road Accident (2016-2023))**[https://anmmashud.github.io/posts/2025-09-11-eda-on-us-road-accident-2016-2023.md]
