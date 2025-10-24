@@ -127,28 +127,6 @@ ninja.data = [{
             window.open("https://anmmashud.xyz/python/", "_blank");
           
         },
-      },{id: "post-",
-        
-          title: ".",
-        
-        description: "A sample blog post",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2010/blog/";
-          
-        },
-      },{id: "post-",
-        
-          title: "..",
-        
-        description: "an example of a distill-style blog post",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2000/distill/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -180,11 +158,6 @@ ninja.data = [{
           description: "This project involves analyzing sales data for Vrinda Store from 2022.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Vrinda_Store_Data_Analysis_Excel/";
-            },},{id: "projects-eda-on-us-road-accident-2016-2023",
-          title: 'EDA on US Road Accident (2016-2023)',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/eda-on-us-road-accident-2016-2023/";
             },},{id: "python-10-basic-python-problems",
           title: '10 Basic Python Problems',
           description: "",
