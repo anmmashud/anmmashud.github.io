@@ -6,6 +6,7 @@ description: Mathmetical Solution with Python
 categories: python, math
 tags: python windows pip installation
 featured: true
+giscus_comments: true
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/1/13/Scatterplot_with_simple_line_regression.png
 toc:
   - name: Sidenotes

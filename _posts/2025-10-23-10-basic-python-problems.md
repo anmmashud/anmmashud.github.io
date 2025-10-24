@@ -5,6 +5,7 @@ date: 2025-10-19 10:09:00
 description: Solving 10 beginner level python problems.
 thumbnail: https://miro.medium.com/v2/resize:fit:720/format:webp/0*FNIfBkJjBWx0S_gr.jpg
 featured: true
+giscus_comments: true
 categories: python problems
 tags: python practice problems loops
 tabs: true
@@ -66,10 +67,7 @@ n = 5 # input
 for i in range(1, n+1):
     print(i)
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -89,10 +87,7 @@ if number > 0:
 else:
     print(f"The nubmer: {number}, is negetive (-ve)")
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -111,10 +106,7 @@ number = 123
 digit_sum = (sum([int(a) for a in str(number)]))
 print(f"Sum of {number} =", digit_sum)
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -134,10 +126,7 @@ for digit in range(input_num,0,-1):
     fact *= digit 
 print(f"{input_num}! =", fact)
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -156,10 +145,7 @@ result = input_num.count('1')
 print(result)
 ```
 
-Outputs:
-      ```markdown
-      
-      ```
+
 
 Another Solution with input:
 
@@ -170,10 +156,7 @@ input_dig = input("Enter the digit: ")
 result = input_num.count(input_dig)
 print(f"{input_dig} appears {result} times in {input_num}.")
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -196,10 +179,7 @@ while b != 0:
 
 print("GCD is:", a)
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 *Explaination:* ...............
 
@@ -220,10 +200,7 @@ for char in word:
     reverse = char + reverse
 print(f'''Reverse of "{word}" is: "{reverse}"''')
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -249,10 +226,7 @@ if result == int(num):
 else:
     print(f"{num} is Not Armstrong")
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 ---
@@ -273,10 +247,7 @@ for i in range(1, rows+1):
     print(" " * (rows-i), end="")
     print(f"{char}" * (2*i-1))
 ```
-Outputs:
-      ```markdown
-      
-      ```
+
 
 
 
