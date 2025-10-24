@@ -15,7 +15,7 @@ toc:
 #  sidebar: left
 #   - name: Problem 1 - Find the Largest of Two Numbers
 #   - name: Problem 2 - Print Numbers from 1 to N
-#   - name: Problem 3 - Check if a Number is Positive or Negative
+#   - name: Problem 3 - Check if a Number is (+ve) or (-ve)
 #   - name: Problem 4 - Calculate the Sum of Digits
 #   - name: Problem 5 - Find Factorial of a Number
 #   - name: Problem 6 - Count Occurrences of a Digit
@@ -26,13 +26,20 @@ toc:
 
 
 ---
+> ##### This page is under construction
+{: .block-danger }
+
+> ##### I'm still working on this post.
+> Code examples and explainations will be added soon. 
+> Check back later for the full version! 
+{: .block-warning }
+
 ## Problem 1 - Find the Largest of Two Numbers
 
 > **Task:** Given two numbers, find the larger one. <br>
 > **Demo Input:**  `5` and `6`<br>
 > **Output:** `6`
 
-*Instructions:* ...............
 
 ```python
 num_1 = 5  # 1st input
@@ -42,12 +49,8 @@ if num_1 > num_2:
 else:
     print(f"The largest number is {num_2}")
 ```
-Outputs:
-   ```markdown
-   6
-   ```
+*Outputs:* **`6`**
 
-*Explaination:* .....................
 
 ---
 
@@ -57,7 +60,6 @@ Outputs:
 > **Demo Input**: `5`  <br>
 > **Demo Output**:  1 2 3 4 5
 
-*Instructions:* ...............
 
 ```python
 n = 5 # input
@@ -69,17 +71,15 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
-## Problem 3 - Check if a Number is Positive or Negative
+## Problem 3 - Check if a Number is (+ve) or (-ve)
 
 > **Task**: Determine if the input number is positive, negative, or zero.  <br>
 > **Demo Input**: `-3`  <br>
 > **Demo Output**: `The number is Negative`
 
-*Instructions:* ...............
 
 ```python
 number = -3    
@@ -94,7 +94,6 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
@@ -105,7 +104,6 @@ Outputs:
 > **Demo Output**: `6`  <br>
 > (Explanation: `1+2+3=6`)
 
-*Instructions:* ...............
 
 ```python
 number = 123
@@ -118,7 +116,6 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
@@ -129,7 +126,6 @@ Outputs:
 > **Demo Output**: `24`  <br>
 > (Explanation: `4! = 4*3*2*1 = 24`)
 
-*Instructions:* ...............
 
 ```python
 input_num = 4
@@ -143,7 +139,6 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
@@ -154,7 +149,6 @@ Outputs:
 > **Demo Output**: `3`  <br>
 > (Explanation: `3` appears 3 times in `1233321`)
 
-*Instructions:* ...............
 
 ```python
 input_num = str(1233321)
@@ -181,7 +175,6 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
@@ -191,7 +184,6 @@ Outputs:
 > **Demo Input**: 8 and 12 <br>
 > **Demo Output**: `4`
 
-*Instructions:* ...............
 
 ```python
 a = int(input("1st number: "))
@@ -219,7 +211,6 @@ Outputs:
 > **Demo Input**: `"aiquest"`  
 > **Demo Output**: `"tseuqia"`
 
-*Instructions:* ...............
 
 ```python
 word = input("Enter anything: ")
@@ -234,7 +225,6 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
@@ -245,7 +235,6 @@ Outputs:
 > **Demo Output**: `153 is an Armstrong Number`  
 > (Explanation: \(1^3 + 5^3 + 3^3 = 153\))
 
-*Instructions:* ...............
 
 ```python
 num = input("Enter a number: ")
@@ -265,7 +254,6 @@ Outputs:
       
       ```
 
-*Explaination:* ...............
 
 ---
 
@@ -275,18 +263,20 @@ Outputs:
 > **Demo input:** 4 <br>
 > **Output:** You will see the pyramid pattern with 4 rows
 
-*Instructions:* ...............
 
 ```python
-**Task**: Print a pyramid pattern with `n` rows.  
-**Demo input:** 4 <br>
-**Output:** You will see the pyramid pattern with 4 rows
+rows = int(input("Enter the number of rows: "))
+# char = input("Enter any character: ")
+char = "▲"
+
+for i in range(1, rows+1):
+    print(" " * (rows-i), end="")
+    print(f"{char}" * (2*i-1))
 ```
 Outputs:
       ```markdown
       
       ```
 
-*Explaination:* ...............
 
 
