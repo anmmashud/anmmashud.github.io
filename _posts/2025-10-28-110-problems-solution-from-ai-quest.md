@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 110 Python Problems Solved: From AI-Quiest
-date: 2025-10-28 1:00:00
+title: 110 Python Problems Solved | AI-Quiest
+date: 2025-10-27 1:00:00
 description: My full collection of Python problem solutions from the AI-Quest challenge — documenting every step from the easy to the tricky ones.
 thumbnail: https://miro.medium.com/v2/resize:fit:720/format:webp/0*FNIfBkJjBWx0S_gr.jpg
 featured: true
