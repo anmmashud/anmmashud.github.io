@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/privacy/";
               },
-            },{id: "post-simple-linear-regression",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2025-10-28-110-problems-solution-from-ai-quest/";
+          
+        },
+      },{id: "post-simple-linear-regression",
         
           title: "Simple Linear Regression",
         
@@ -83,15 +94,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/linear-regression-hardcode/";
           
         },
-      },{id: "post-10-basic-python-problems",
+      },{id: "post-10-python-problems-for-beginners",
         
-          title: "10 Basic Python Problems",
+          title: "10 Python Problems for Beginners",
         
-        description: "Solving 10 beginner level python problems.",
+        description: "A collection of ten beginner-friendly Python problems that cover the basics — from loops and conditionals to string and number operations. Each problem is solved step by step, helping you practice logic and syntax through real examples.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/10-basic-python-problems/";
+            window.location.href = "/blog/2025/10-python-problems-for-beginners/";
           
         },
       },{id: "post-install-jupyter-on-windows",
