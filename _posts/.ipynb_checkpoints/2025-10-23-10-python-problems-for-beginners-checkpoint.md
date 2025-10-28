@@ -21,8 +21,8 @@ toc:
 ---
 
 ## Problem 1 - Find the Largest of Two Numbers
-> **Task:** Given two numbers, find the larger one.  
-> **Demo Input:** `5` and `6`  
+> **Task:** Given two numbers, find the larger one.  <br>
+> **Demo Input:** `5` and `6`<br>
 > **Output:** `6`
 
 ```python
@@ -49,8 +49,8 @@ The program compares two numbers using the `>` (greater than) operator.
 
 ## Problem 2 - Print Numbers from 1 to N
 
-> **Task:** Given a number `n`, print all numbers from 1 to `n`.
-> **Demo Input:** `5`
+> **Task:** Given a number `n`, print all numbers from 1 to `n`.<br>
+> **Demo Input:** `5`<br>
 > **Demo Output:** `1 2 3 4 5`
 
 ```python
@@ -68,8 +68,8 @@ If `n` is 5, the output becomes `1 2 3 4 5`.
 
 ## Problem 3 - Check if a Number is Positive or Negative
 
-> **Task:** Determine if the input number is positive, negative, or zero.
-> **Demo Input:** `-3`
+> **Task:** Determine if the input number is positive, negative, or zero.<br>
+> **Demo Input:** `-3`<br>
 > **Demo Output:** `The number is Negative`
 
 ```python
@@ -96,9 +96,9 @@ This uses simple conditional checks:
 
 ## Problem 4 - Calculate the Sum of Digits
 
-> **Task:** Given a number, find the sum of its digits.
-> **Demo Input:** `123`
-> **Demo Output:** `6`
+> **Task:** Given a number, find the sum of its digits.<br>
+> **Demo Input:** `123`<br>
+> **Demo Output:** `6`<br>
 > (Explanation: `1 + 2 + 3 = 6`)
 
 ```python
@@ -117,9 +117,9 @@ For `123`, this becomes `1 + 2 + 3 = 6`.
 
 ## Problem 5 - Find Factorial of a Number
 
-> **Task:** Calculate the factorial of a given number.
-> **Demo Input:** `4`
-> **Demo Output:** `24`
+> **Task:** Calculate the factorial of a given number.<br>
+> **Demo Input:** `4`<br>
+> **Demo Output:** `24`<br>
 > (Explanation: `4! = 4 × 3 × 2 × 1 = 24`)
 
 ```python
@@ -141,9 +141,9 @@ This is the manual way to calculate factorials without using `math.factorial()`.
 
 ## Problem 6 - Count Occurrences of a Digit
 
-> **Task:** Count how many times a specific digit appears in a number.
-> **Demo Input:** `1233321`
-> **Demo Output:** `3`
+> **Task:** Count how many times a specific digit appears in a number.<br>
+> **Demo Input:** `1233321`<br>
+> **Demo Output:** `3`<br>
 > (Explanation: The digit `3` appears 3 times in `1233321`.)
 
 ```python
@@ -170,8 +170,8 @@ Converting the number to a string makes it easy to use this built-in function.
 
 ## Problem 7 - Find the GCD of Two Numbers
 
-> **Task:** Find the greatest common divisor (GCD) of two numbers.
-> **Demo Input:** `8` and `12`
+> **Task:** Find the greatest common divisor (GCD) of two numbers.<br>
+> **Demo Input:** `8` and `12`<br>
 > **Demo Output:** `4`
 
 ```python
@@ -198,8 +198,8 @@ This uses the **Euclidean Algorithm**:
 
 ## Problem 8 - Reverse a String
 
-> **Task:** Reverse the given string.
-> **Demo Input:** `"aiquest"`
+> **Task:** Reverse the given string.<br>
+> **Demo Input:** `"aiquest"`<br>
 > **Demo Output:** `"tseuqia"`
 
 ```python
@@ -220,9 +220,9 @@ This approach avoids using slicing or built-in reverse functions, helping you un
 
 ## Problem 9 - Check Armstrong Number
 
-> **Task:** Check if a number is an Armstrong number.
-> **Demo Input:** `153`
-> **Demo Output:** `153 is an Armstrong Number`
+> **Task:** Check if a number is an Armstrong number.<br>
+> **Demo Input:** `153`<br>
+> **Demo Output:** `153 is an Armstrong Number`<br>
 > (Explanation: (1^3 + 5^3 + 3^3 = 153))
 
 ```python
@@ -248,8 +248,8 @@ For example, `153 = 1³ + 5³ + 3³`.
 
 ## Problem 10 - Generate a Pattern
 
-> **Task:** Print a pyramid pattern with `n` rows.
-> **Demo Input:** `4`
+> **Task:** Print a pyramid pattern with `n` rows.<br>
+> **Demo Input:** `4`<br>
 > **Output:** Pyramid pattern with 4 rows.
 
 ```python
