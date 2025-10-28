@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/privacy/";
               },
-            },{id: "post-",
+            },{id: "post-110-python-problems-solved-ai-quiest",
         
-          title: "",
+          title: "110 Python Problems Solved | AI-Quiest",
         
-        description: "",
+        description: "My full collection of Python problem solutions from the AI-Quest challenge — documenting every step from the easy to the tricky ones.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-10-28-110-problems-solution-from-ai-quest/";
+            window.location.href = "/blog/2025/110-problems-solution-from-ai-quest/";
           
         },
       },{id: "post-simple-linear-regression",
