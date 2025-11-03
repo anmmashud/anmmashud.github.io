@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/linear-regression-hardcode/";
+            window.location.href = "/blog/2025/rs_tmdb_5000_movies/";
           
         },
       },{id: "post-110-python-problems-solved-ai-quiest",
