@@ -14,9 +14,23 @@ related_posts: true
 toc:
   beginning: true
 ---
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)]([https://your-live-app-link.com](https://recommendation-system-tmdb-5000-movies.streamlit.app/))
+<p align="center">
+  <a href="https://recommendation-system-tmdb-5000-movies.streamlit.app" target="_blank">
+    <button style="
+      background-color:#ff4b4b;
+      color:white;
+      border:none;
+      padding:15px 40px;
+      border-radius:8px;
+      font-size:18px;
+      font-weight:600;
+      cursor:pointer;
+      box-shadow:0 4px 6px rgba(0,0,0,0.2);
+    ">
+      🚀 Live Preview
+    </button>
+  </a>
+</p>
 
-> ##### I'm still working on this post.
-> Code examples and explainations will be added soon. 
-> Check back later for the full version! 
-{: .block-warning }
+
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://recommendation-system-tmdb-5000-movies.streamlit.app)
