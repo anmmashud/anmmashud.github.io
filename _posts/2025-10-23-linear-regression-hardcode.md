@@ -14,6 +14,12 @@ related_posts: true
 toc:
   beginning: true
 ---
+> ##### I'm still working on this post.
+> Code examples and explainations will be added soon. 
+> Check back later for the full version! 
+{: .block-warning }
+
+
 <p align="center">
   <a href="https://recommendation-system-tmdb-5000-movies.streamlit.app" target="_blank">
     <button style="
@@ -32,5 +38,3 @@ toc:
   </a>
 </p>
 
-
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://recommendation-system-tmdb-5000-movies.streamlit.app)
