@@ -169,6 +169,11 @@ ninja.data = [{
           description: "This project involves analyzing sales data for Vrinda Store from 2022.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Vrinda_Store_Data_Analysis_Excel/";
+            },},{id: "projects-recommendation-system-on-tmdb-39-s-5000-movies",
+          title: 'Recommendation System on TMDB&amp;#39;s 5000 Movies',
+          description: "A content based Recommendation System based on TMDB&#39;S 5000 Movies Dataset",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rs_tmdb_5000_movies/";
             },},{id: "python-10-basic-python-problems",
           title: '10 Basic Python Problems',
           description: "",
