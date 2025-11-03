@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [EDA, Excel, SQL]
+display_categories: [Recommendation System, Regression, Classification, EDA, Excel, SQL]
 horizontal: false
 ---
 
