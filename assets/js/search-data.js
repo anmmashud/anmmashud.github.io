@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/privacy/";
               },
-            },{id: "post-110-python-problems-solved-ai-quiest",
+            },{id: "post-recommendation-system-on-tmdb-39-s-5000-movies",
+        
+          title: "Recommendation System on TMDB&#39;s 5000 Movies",
+        
+        description: "A content based Recommendation System based on TMDB&#39;S 5000 Movies Dataset",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/linear-regression-hardcode/";
+          
+        },
+      },{id: "post-110-python-problems-solved-ai-quiest",
         
           title: "110 Python Problems Solved | AI-Quiest",
         
@@ -81,17 +92,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/110-problems-solution-from-ai-quest/";
-          
-        },
-      },{id: "post-simple-linear-regression",
-        
-          title: "Simple Linear Regression",
-        
-        description: "Mathmetical Solution with Python",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/linear-regression-hardcode/";
           
         },
       },{id: "post-10-python-problems-for-beginners",
