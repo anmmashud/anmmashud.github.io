@@ -20,7 +20,3 @@ toc:
 > Code examples and explainations will be added soon. 
 > Check back later for the full version! 
 {: .block-warning }
-
-
-
-https://recommendation-system-tmdb-5000-movies.streamlit.app/
